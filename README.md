@@ -2,7 +2,7 @@
   <img src="assets/louisville_cardinal.png" alt="University of Louisville Cardinal logo" width="180">
 </p>
 
-# abbie_univ_louisville_examples
+# Examples for Abbie Beauerle
 
 Example repository for Abbie Beauerle @ abigail.beauerle@louisville.edu containing a project scaffold with python code and a working output. Used for observing modern practices for how solution and software design teams create transparency and communicate through code.
 
