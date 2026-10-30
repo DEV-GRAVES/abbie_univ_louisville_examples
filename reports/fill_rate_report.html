@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fill Rate Report</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1b1f24;--muted:#5d6670;--line:#e3e6ea;
+--accent:#1f5fbf;--good:#1e8e4e;--warn:#c98a00;--bad:#c23b3b;}
+@media (prefers-color-scheme:dark){:root{--bg:#121417;--card:#1b1e22;--ink:#e8eaed;
+--muted:#9aa3ad;--line:#2c3036;--accent:#6ea3ff;}}
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;
+background:var(--bg);color:var(--ink)}
+header{padding:24px 16px 8px;max-width:1100px;margin:auto}
+h1{margin:0;font-size:22px}header p{margin:4px 0 0;color:var(--muted)}
+main{max-width:1100px;margin:auto;padding:0 16px 40px}
+nav{display:flex;gap:6px;margin:16px 0;border-bottom:1px solid var(--line);overflow-x:auto}
+nav button{background:none;border:0;padding:10px 14px;font:inherit;color:var(--muted);
+cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}
+nav button.on{color:var(--accent);border-color:var(--accent);font-weight:600}
+.tab{display:none}.tab.on{display:block}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px}
+.kpi .v{font-size:28px;font-weight:700}.kpi .l{color:var(--muted);font-size:13px}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px;margin-top:12px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px;border-bottom:1px solid var(--line)}
+th{color:var(--muted);font-weight:600;cursor:pointer}
+.pill{display:inline-block;padding:1px 8px;border-radius:999px;font-size:12px;color:#fff}
+.g{background:var(--good)}.a{background:var(--warn)}.r{background:var(--bad)}
+select{font:inherit;padding:6px;border-radius:6px;border:1px solid var(--line);
+background:var(--card);color:var(--ink)}
+.rel{border-left:3px solid var(--accent);padding:4px 0 4px 14px;margin:0 0 20px}
+.rel h3{margin:0;font-size:16px}.rel small{color:var(--muted)}
+.rel ul{margin:6px 0 0;padding-left:18px}.tag{font-size:11px;font-weight:700;
+text-transform:uppercase;margin-right:6px;color:var(--accent)}
+.msg{display:flex;gap:10px;margin-bottom:14px}
+.av{flex:0 0 36px;height:36px;border-radius:50%;display:grid;place-items:center;
+color:#fff;font-weight:700;font-size:13px}
+.bubble{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;flex:1}
+.bubble .who{font-weight:600}.bubble .meta{color:var(--muted);font-size:12px}
+.ref{font-size:12px;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:0 5px}
+footer{color:var(--muted);font-size:12px;text-align:center;margin-top:30px}
+</style></head><body>
+<header><h1>Warehouse Fill Rate Report</h1>
+<p id="sub"></p></header>
+<main>
+<nav>
+ <button class="on" data-t="kpi">KPIs</button>
+ <button data-t="trend">Trend</button>
+ <button data-t="log">Change log</button>
+ <button data-t="team">Team communication</button>
+</nav>
+
+<section id="kpi" class="tab on">
+ <div class="kpis" id="kpis"></div>
+ <div class="grid2">
+  <div class="card"><h3 style="margin-top:0">Fill rate by site</h3><canvas id="siteChart"></canvas></div>
+  <div class="card"><h3 style="margin-top:0">Fill rate by SKU family</h3><canvas id="famChart"></canvas></div>
+ </div>
+ <div class="card" style="margin-top:12px"><h3 style="margin-top:0">Site detail <small style="color:var(--muted);font-weight:400">(click a header to sort)</small></h3>
+  <table id="siteTbl"><thead><tr>
+   <th data-k="name">Site</th><th data-k="lines">Lines</th><th data-k="ordered">Ordered</th>
+   <th data-k="shipped">Shipped</th><th data-k="fill_rate">Fill rate</th><th data-k="on_time_rate">On time</th>
+  </tr></thead><tbody></tbody></table></div>
+</section>
+
+<section id="trend" class="tab">
+ <div class="card"><label>Site: <select id="siteSel"></select></label>
+ <canvas id="trendChart" style="margin-top:12px"></canvas></div>
+</section>
+
+<section id="log" class="tab"><div class="card">
+ <label>Show: <select id="logFilter"><option>All</option><option>Added</option>
+ <option>Changed</option><option>Fixed</option></select></label>
+ <div id="logList" style="margin-top:16px"></div></div></section>
+
+<section id="team" class="tab"><div class="card" id="teamList"></div></section>
+
+<footer id="foot"></footer>
+</main>
+<script>
+const D = {"summary": {"total": {"ordered": 139852, "shipped": 135704, "lines": 2229, "fill_rate": 0.9703, "on_time_rate": 0.9475}, "sites": {"Indianapolis IN": {"ordered": 47628, "shipped": 46013, "lines": 743, "fill_rate": 0.9661, "on_time_rate": 0.9502}, "Louisville KY": {"ordered": 46865, "shipped": 46416, "lines": 748, "fill_rate": 0.9904, "on_time_rate": 0.9773}, "Memphis TN": {"ordered": 45359, "shipped": 43275, "lines": 738, "fill_rate": 0.9541, "on_time_rate": 0.9146}}, "families": {"Accessories": {"ordered": 34747, "shipped": 34029, "lines": 537, "fill_rate": 0.9793, "on_time_rate": 0.9553}, "Electronics": {"ordered": 34522, "shipped": 33551, "lines": 578, "fill_rate": 0.9719, "on_time_rate": 0.9637}, "Fixtures": {"ordered": 33568, "shipped": 32746, "lines": 535, "fill_rate": 0.9755, "on_time_rate": 0.9645}, "Spare Parts": {"ordered": 37015, "shipped": 35378, "lines": 579, "fill_rate": 0.9558, "on_time_rate": 0.9085}}, "days": ["2026-09-28", "2026-09-29", "2026-09-30", "2026-10-01", "2026-10-02", "2026-10-03", "2026-10-04", "2026-10-05", "2026-10-06", "2026-10-07", "2026-10-08", "2026-10-09", "2026-10-10", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-10-16", "2026-10-17", "2026-10-18", "2026-10-19", "2026-10-20", "2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"], "trend": {"Indianapolis IN": [0.9246, 0.998, 0.979, 0.9756, 0.9846, 0.9509, 0.9064, 0.9485, 0.9504, 0.9582, 0.8327, 0.967, 1.0, 1.0, 0.99, 0.9833, 0.9419, 0.8984, 1.0, 1.0, 0.9599, 0.9612, 0.9781, 1.0, 1.0, 0.9563, 1.0, 0.9553, 0.9664, 0.9498], "Louisville KY": [0.9886, 1.0, 0.9726, 0.9844, 1.0, 0.9748, 1.0, 1.0, 0.9769, 1.0, 1.0, 1.0, 0.9917, 1.0, 1.0, 1.0, 1.0, 1.0, 0.9563, 1.0, 0.9595, 0.9969, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.9969, 0.9238], "Memphis TN": [0.937, 0.8684, 0.982, 0.9952, 0.8708, 0.8832, 0.9911, 0.9133, 0.9972, 0.9196, 0.908, 0.9835, 0.9563, 0.943, 0.9646, 0.9, 0.9794, 1.0, 1.0, 0.9284, 0.9944, 1.0, 1.0, 0.9432, 1.0, 0.942, 0.9065, 0.9477, 0.9733, 0.9845]}, "targets": {"fill": 0.98, "warn": 0.95, "on_time": 0.95}}, "changelog": [{"version": "2.1.0", "date": "2026-10-30", "items": [{"type": "Added", "text": "Change log tab in the HTML report, parsed directly from this file (CHG-118)"}, {"type": "Added", "text": "Team communication tab rendered from docs/team_communication.json (CHG-118)"}, {"type": "Added", "text": "HTML-escaping of team message text before it is embedded in the report"}]}, {"version": "2.0.0", "date": "2026-10-14", "items": [{"type": "Changed", "text": "BREAKING: report output is now a self-contained interactive HTML page instead of CSV (CHG-104)"}, {"type": "Changed", "text": "BREAKING: --out flag now expects a .html path"}, {"type": "Added", "text": "Daily fill-rate trend chart with per-site filter and target line"}, {"type": "Added", "text": "Sortable site detail table with red/amber/green status pills"}]}, {"version": "1.2.0", "date": "2026-09-30", "items": [{"type": "Added", "text": "On-time ship KPI calculated alongside fill rate (CHG-097)"}]}, {"version": "1.1.1", "date": "2026-09-18", "items": [{"type": "Fixed", "text": "Divide-by-zero when a site had no ordered units on a given day (CHG-091)"}, {"type": "Fixed", "text": "Shipped quantity greater than ordered quantity is now clamped instead of inflating fill rate"}]}, {"version": "1.1.0", "date": "2026-09-12", "items": [{"type": "Added", "text": "SKU-family grouping for fill rate (CHG-088)"}]}, {"version": "1.0.0", "date": "2026-09-02", "items": [{"type": "Added", "text": "Initial release: fill rate by warehouse site from an order-line CSV"}]}], "comms": [{"timestamp": "2026-09-02 09:14", "author": "Chris Graves", "initials": "CG", "role": "Solution Architect", "ref": "v1.0.0", "text": "First cut of the fill rate analyzer is merged. It reads the daily order-line export and prints fill rate by site. Sample data is seeded so everyone gets the same numbers."}, {"timestamp": "2026-09-11 15:40", "author": "Priya Okafor", "initials": "PO", "role": "Ops Manager, Memphis", "ref": "CHG-088", "text": "Can we split this by SKU family? Spare Parts drag our number down and I need to show that separately in the weekly review."}, {"timestamp": "2026-09-12 10:05", "author": "Alex Moreno", "initials": "AM", "role": "Data Analyst", "ref": "v1.1.0", "text": "Done - SKU family grouping is in 1.1.0. Older files without the column still load and show as &#x27;Unassigned&#x27;."}, {"timestamp": "2026-09-17 08:22", "author": "Jordan Tate", "initials": "JT", "role": "CI Engineer", "ref": "CHG-091", "text": "Script crashed on last night&#x27;s run: ZeroDivisionError. Indianapolis had a day with zero ordered units after the holiday cutoff."}, {"timestamp": "2026-09-18 11:30", "author": "Chris Graves", "initials": "CG", "role": "Solution Architect", "ref": "v1.1.1", "text": "Patched in 1.1.1. Fill rate now returns 0 for empty buckets, and shipped &gt; ordered rows get clamped. Search the code for [CHG-091] to see the exact lines."}, {"timestamp": "2026-09-29 14:12", "author": "Jordan Tate", "initials": "JT", "role": "CI Engineer", "ref": "v1.2.0", "text": "Added on-time ship rate. Fill rate alone hid the fact that Memphis ships complete but late."}, {"timestamp": "2026-10-13 16:48", "author": "Alex Moreno", "initials": "AM", "role": "Data Analyst", "ref": "CHG-104", "text": "Heads up: 2.0.0 is a breaking change. Output is now an HTML report instead of CSV, so any Power Automate flow that picks up the CSV needs updating."}, {"timestamp": "2026-10-14 09:01", "author": "Priya Okafor", "initials": "PO", "role": "Ops Manager, Memphis", "ref": "", "text": "The new report is much easier to share with site leads. The trend tab made our Spare Parts dip obvious."}, {"timestamp": "2026-10-29 13:20", "author": "Chris Graves", "initials": "CG", "role": "Solution Architect", "ref": "CHG-118", "text": "Adding change log and team communication tabs so reviewers can see why each version exists without leaving the report. Targeting 2.1.0 tomorrow."}, {"timestamp": "2026-10-30 10:45", "author": "Jordan Tate", "initials": "JT", "role": "CI Engineer", "ref": "v2.1.0", "text": "Reviewed and approved. Message text is escaped before embedding, so &lt;b&gt;markup&lt;/b&gt; like this shows as plain text."}], "meta": {"version": "2.1.0", "generated": "2026-10-30 14:34"}};
+const S = D.summary, pct = v => (v*100).toFixed(1)+'%';
+const rag = v => v>=S.targets.fill?'g':v>=S.targets.warn?'a':'r';
+document.getElementById('sub').textContent =
+  `${S.days[0]} to ${S.days[S.days.length-1]} · ${S.total.lines.toLocaleString()} order lines · target ${pct(S.targets.fill)}`;
+document.getElementById('foot').textContent =
+  `Generated ${D.meta.generated} by fill_rate_analyzer.py v${D.meta.version}`;
+
+// tabs
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('nav button,.tab').forEach(e=>e.classList.remove('on'));
+  b.classList.add('on'); document.getElementById(b.dataset.t).classList.add('on');});
+
+// KPI tiles
+const k=[['Overall fill rate',pct(S.total.fill_rate)],['On-time ship',pct(S.total.on_time_rate)],
+ ['Units ordered',S.total.ordered.toLocaleString()],['Units short',(S.total.ordered-S.total.shipped).toLocaleString()]];
+document.getElementById('kpis').innerHTML=k.map(([l,v])=>`<div class="card kpi"><div class="l">${l}</div><div class="v">${v}</div></div>`).join('');
+
+// charts
+const css=getComputedStyle(document.documentElement), ink=css.getPropertyValue('--muted');
+Chart.defaults.color=ink;
+const colorFor=v=>v>=S.targets.fill?'#1e8e4e':v>=S.targets.warn?'#c98a00':'#c23b3b';
+function bar(id,obj){const ks=Object.keys(obj),vs=ks.map(x=>obj[x].fill_rate);
+ new Chart(document.getElementById(id),{type:'bar',data:{labels:ks,datasets:[{data:vs.map(v=>v*100),
+ backgroundColor:vs.map(colorFor)}]},options:{plugins:{legend:{display:false},
+ tooltip:{callbacks:{label:c=>c.raw.toFixed(2)+'%'}}},scales:{y:{min:85,max:100,ticks:{callback:v=>v+'%'}}}}});}
+bar('siteChart',S.sites); bar('famChart',S.families);
+
+// sortable table
+let rows=Object.entries(S.sites).map(([name,v])=>({name,...v})), dir=1, key='fill_rate';
+function drawTbl(){rows.sort((a,b)=>(a[key]>b[key]?1:-1)*dir);
+ document.querySelector('#siteTbl tbody').innerHTML=rows.map(r=>`<tr><td>${r.name}</td><td>${r.lines}</td>
+ <td>${r.ordered.toLocaleString()}</td><td>${r.shipped.toLocaleString()}</td>
+ <td><span class="pill ${rag(r.fill_rate)}">${pct(r.fill_rate)}</span></td><td>${pct(r.on_time_rate)}</td></tr>`).join('');}
+document.querySelectorAll('#siteTbl th').forEach(th=>th.onclick=()=>{dir=key===th.dataset.k?-dir:1;key=th.dataset.k;drawTbl();});
+drawTbl();
+
+// trend
+const sel=document.getElementById('siteSel');
+sel.innerHTML='<option>All sites</option>'+Object.keys(S.trend).map(s=>`<option>${s}</option>`).join('');
+const pal=['#1f5fbf','#c98a00','#7b3fbf'];
+const tc=new Chart(document.getElementById('trendChart'),{type:'line',data:{labels:S.days,datasets:[]},
+ options:{interaction:{mode:'index',intersect:false},animation:false,scales:{y:{min:80,max:100,ticks:{callback:v=>v+'%'}}}}});
+function drawTrend(){const pick=sel.value;
+ tc.data.datasets=Object.keys(S.trend).filter(s=>pick==='All sites'||s===pick).map((s,i)=>({label:s,
+ data:S.trend[s].map(v=>+(v*100).toFixed(2)),borderColor:pal[Object.keys(S.trend).indexOf(s)],tension:0,pointRadius:2}));
+ tc.data.datasets.push({label:'Target',data:S.days.map(()=>S.targets.fill*100),borderColor:'#1e8e4e',borderDash:[6,4],pointRadius:0});
+ tc.update();}
+sel.onchange=drawTrend; drawTrend();
+
+// change log
+function drawLog(){const f=document.getElementById('logFilter').value;
+ document.getElementById('logList').innerHTML=D.changelog.map(r=>{
+  const it=r.items.filter(i=>f==='All'||i.type===f); if(!it.length)return '';
+  return `<div class="rel"><h3>v${r.version}</h3><small>${r.date}</small><ul>${
+   it.map(i=>`<li><span class="tag">${i.type}</span>${i.text.replace(/</g,'&lt;')}</li>`).join('')}</ul></div>`;}).join('');}
+document.getElementById('logFilter').onchange=drawLog; drawLog();
+
+// team comms (text already escaped in Python)
+const avc={CG:'#1f5fbf',AM:'#7b3fbf',JT:'#1e8e4e',PO:'#c98a00'};
+document.getElementById('teamList').innerHTML=D.comms.map(m=>`<div class="msg">
+ <div class="av" style="background:${avc[m.initials]||'#555'}">${m.initials}</div>
+ <div class="bubble"><span class="who">${m.author}</span> <span class="meta">· ${m.role} · ${m.timestamp}</span>
+ ${m.ref?` <span class="ref">${m.ref}</span>`:''}<div>${m.text}</div></div></div>`).join('');
+</script></body></html>

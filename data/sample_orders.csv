@@ -1,0 +1,2230 @@
+order_date,site,sku_family,ordered_qty,shipped_qty,shipped_on_time
+2026-09-28,Louisville KY,Electronics,8,8,1
+2026-09-28,Louisville KY,Fixtures,99,99,1
+2026-09-28,Louisville KY,Electronics,80,80,1
+2026-09-28,Louisville KY,Fixtures,34,34,1
+2026-09-28,Louisville KY,Fixtures,96,96,1
+2026-09-28,Louisville KY,Fixtures,62,62,1
+2026-09-28,Louisville KY,Electronics,102,102,1
+2026-09-28,Louisville KY,Accessories,40,40,1
+2026-09-28,Louisville KY,Accessories,18,18,1
+2026-09-28,Louisville KY,Accessories,82,82,1
+2026-09-28,Louisville KY,Spare Parts,73,73,1
+2026-09-28,Louisville KY,Electronics,75,75,1
+2026-09-28,Louisville KY,Accessories,78,78,1
+2026-09-28,Louisville KY,Fixtures,103,103,1
+2026-09-28,Louisville KY,Fixtures,115,115,1
+2026-09-28,Louisville KY,Accessories,25,25,1
+2026-09-28,Louisville KY,Accessories,94,94,1
+2026-09-28,Louisville KY,Fixtures,73,73,1
+2026-09-28,Louisville KY,Spare Parts,39,17,1
+2026-09-28,Louisville KY,Accessories,112,112,1
+2026-09-28,Louisville KY,Electronics,108,108,1
+2026-09-28,Louisville KY,Fixtures,77,77,1
+2026-09-28,Louisville KY,Spare Parts,55,55,1
+2026-09-28,Louisville KY,Fixtures,38,38,1
+2026-09-28,Louisville KY,Accessories,100,100,1
+2026-09-28,Louisville KY,Spare Parts,51,51,0
+2026-09-28,Louisville KY,Spare Parts,16,16,1
+2026-09-28,Louisville KY,Fixtures,85,85,1
+2026-09-28,Memphis TN,Electronics,54,54,0
+2026-09-28,Memphis TN,Accessories,75,75,1
+2026-09-28,Memphis TN,Electronics,92,92,1
+2026-09-28,Memphis TN,Accessories,19,19,1
+2026-09-28,Memphis TN,Electronics,97,97,1
+2026-09-28,Memphis TN,Fixtures,69,69,1
+2026-09-28,Memphis TN,Accessories,112,112,1
+2026-09-28,Memphis TN,Fixtures,52,52,1
+2026-09-28,Memphis TN,Electronics,81,81,1
+2026-09-28,Memphis TN,Accessories,117,51,1
+2026-09-28,Memphis TN,Electronics,35,35,0
+2026-09-28,Memphis TN,Electronics,98,98,1
+2026-09-28,Memphis TN,Fixtures,21,21,0
+2026-09-28,Memphis TN,Fixtures,38,38,1
+2026-09-28,Memphis TN,Fixtures,74,74,1
+2026-09-28,Memphis TN,Accessories,56,20,1
+2026-09-28,Memphis TN,Spare Parts,20,20,1
+2026-09-28,Memphis TN,Electronics,80,80,1
+2026-09-28,Memphis TN,Electronics,14,14,1
+2026-09-28,Memphis TN,Electronics,120,120,1
+2026-09-28,Memphis TN,Fixtures,40,40,1
+2026-09-28,Memphis TN,Fixtures,97,97,1
+2026-09-28,Memphis TN,Spare Parts,36,36,1
+2026-09-28,Memphis TN,Fixtures,17,17,1
+2026-09-28,Memphis TN,Spare Parts,57,57,1
+2026-09-28,Memphis TN,Electronics,12,12,1
+2026-09-28,Memphis TN,Electronics,36,36,1
+2026-09-28,Indianapolis IN,Spare Parts,28,28,1
+2026-09-28,Indianapolis IN,Electronics,61,61,1
+2026-09-28,Indianapolis IN,Electronics,11,11,1
+2026-09-28,Indianapolis IN,Electronics,16,16,1
+2026-09-28,Indianapolis IN,Fixtures,57,57,1
+2026-09-28,Indianapolis IN,Spare Parts,120,120,1
+2026-09-28,Indianapolis IN,Spare Parts,38,14,1
+2026-09-28,Indianapolis IN,Spare Parts,24,24,1
+2026-09-28,Indianapolis IN,Electronics,79,79,1
+2026-09-28,Indianapolis IN,Accessories,12,12,1
+2026-09-28,Indianapolis IN,Fixtures,12,12,1
+2026-09-28,Indianapolis IN,Fixtures,13,13,1
+2026-09-28,Indianapolis IN,Fixtures,56,56,1
+2026-09-28,Indianapolis IN,Fixtures,79,79,1
+2026-09-28,Indianapolis IN,Spare Parts,89,89,1
+2026-09-28,Indianapolis IN,Accessories,31,31,1
+2026-09-28,Indianapolis IN,Accessories,55,55,1
+2026-09-28,Indianapolis IN,Spare Parts,45,2,1
+2026-09-28,Indianapolis IN,Electronics,14,14,1
+2026-09-28,Indianapolis IN,Fixtures,49,49,1
+2026-09-29,Louisville KY,Accessories,25,25,1
+2026-09-29,Louisville KY,Accessories,83,83,1
+2026-09-29,Louisville KY,Electronics,90,90,1
+2026-09-29,Louisville KY,Electronics,117,117,1
+2026-09-29,Louisville KY,Electronics,100,100,1
+2026-09-29,Louisville KY,Fixtures,96,96,1
+2026-09-29,Louisville KY,Accessories,69,69,1
+2026-09-29,Louisville KY,Electronics,16,16,1
+2026-09-29,Louisville KY,Electronics,5,5,1
+2026-09-29,Louisville KY,Accessories,25,25,1
+2026-09-29,Louisville KY,Spare Parts,76,76,1
+2026-09-29,Louisville KY,Fixtures,74,74,1
+2026-09-29,Louisville KY,Fixtures,60,60,1
+2026-09-29,Louisville KY,Electronics,120,120,1
+2026-09-29,Louisville KY,Electronics,50,50,1
+2026-09-29,Louisville KY,Spare Parts,84,84,1
+2026-09-29,Louisville KY,Fixtures,115,115,1
+2026-09-29,Louisville KY,Fixtures,117,117,1
+2026-09-29,Louisville KY,Accessories,105,105,1
+2026-09-29,Louisville KY,Fixtures,39,39,1
+2026-09-29,Louisville KY,Spare Parts,116,116,1
+2026-09-29,Louisville KY,Fixtures,109,109,1
+2026-09-29,Louisville KY,Fixtures,33,33,1
+2026-09-29,Memphis TN,Accessories,115,115,1
+2026-09-29,Memphis TN,Accessories,87,87,1
+2026-09-29,Memphis TN,Accessories,8,8,0
+2026-09-29,Memphis TN,Fixtures,79,16,1
+2026-09-29,Memphis TN,Spare Parts,49,49,1
+2026-09-29,Memphis TN,Electronics,54,54,1
+2026-09-29,Memphis TN,Electronics,95,95,1
+2026-09-29,Memphis TN,Fixtures,51,51,0
+2026-09-29,Memphis TN,Accessories,84,84,1
+2026-09-29,Memphis TN,Accessories,69,69,1
+2026-09-29,Memphis TN,Spare Parts,94,94,1
+2026-09-29,Memphis TN,Spare Parts,90,43,1
+2026-09-29,Memphis TN,Fixtures,83,83,1
+2026-09-29,Memphis TN,Electronics,43,43,1
+2026-09-29,Memphis TN,Accessories,64,64,1
+2026-09-29,Memphis TN,Spare Parts,106,50,1
+2026-09-29,Memphis TN,Electronics,41,41,1
+2026-09-29,Memphis TN,Accessories,16,16,1
+2026-09-29,Memphis TN,Accessories,33,33,1
+2026-09-29,Memphis TN,Electronics,36,2,1
+2026-09-29,Memphis TN,Fixtures,96,96,1
+2026-09-29,Memphis TN,Fixtures,23,23,1
+2026-09-29,Memphis TN,Electronics,104,104,1
+2026-09-29,Indianapolis IN,Spare Parts,11,11,0
+2026-09-29,Indianapolis IN,Electronics,63,63,1
+2026-09-29,Indianapolis IN,Accessories,101,101,1
+2026-09-29,Indianapolis IN,Spare Parts,111,111,1
+2026-09-29,Indianapolis IN,Fixtures,100,100,1
+2026-09-29,Indianapolis IN,Fixtures,112,112,1
+2026-09-29,Indianapolis IN,Spare Parts,85,85,1
+2026-09-29,Indianapolis IN,Accessories,35,35,1
+2026-09-29,Indianapolis IN,Electronics,22,22,1
+2026-09-29,Indianapolis IN,Fixtures,95,95,1
+2026-09-29,Indianapolis IN,Accessories,74,74,1
+2026-09-29,Indianapolis IN,Spare Parts,54,54,1
+2026-09-29,Indianapolis IN,Electronics,114,114,1
+2026-09-29,Indianapolis IN,Spare Parts,5,1,1
+2026-09-29,Indianapolis IN,Spare Parts,73,73,1
+2026-09-29,Indianapolis IN,Fixtures,67,67,1
+2026-09-29,Indianapolis IN,Electronics,54,54,1
+2026-09-29,Indianapolis IN,Spare Parts,97,97,1
+2026-09-29,Indianapolis IN,Fixtures,84,84,1
+2026-09-29,Indianapolis IN,Electronics,15,15,1
+2026-09-29,Indianapolis IN,Spare Parts,28,28,1
+2026-09-29,Indianapolis IN,Fixtures,63,63,1
+2026-09-29,Indianapolis IN,Spare Parts,40,40,1
+2026-09-29,Indianapolis IN,Accessories,111,111,1
+2026-09-29,Indianapolis IN,Electronics,49,49,1
+2026-09-29,Indianapolis IN,Electronics,101,101,1
+2026-09-29,Indianapolis IN,Electronics,84,84,1
+2026-09-29,Indianapolis IN,Electronics,77,77,1
+2026-09-29,Indianapolis IN,Accessories,103,103,1
+2026-09-30,Louisville KY,Electronics,104,104,1
+2026-09-30,Louisville KY,Electronics,79,79,1
+2026-09-30,Louisville KY,Spare Parts,55,6,1
+2026-09-30,Louisville KY,Fixtures,18,18,1
+2026-09-30,Louisville KY,Electronics,106,106,1
+2026-09-30,Louisville KY,Accessories,73,73,1
+2026-09-30,Louisville KY,Accessories,6,6,1
+2026-09-30,Louisville KY,Electronics,60,60,1
+2026-09-30,Louisville KY,Spare Parts,95,95,1
+2026-09-30,Louisville KY,Accessories,83,83,1
+2026-09-30,Louisville KY,Spare Parts,64,64,1
+2026-09-30,Louisville KY,Accessories,46,46,1
+2026-09-30,Louisville KY,Electronics,40,40,1
+2026-09-30,Louisville KY,Spare Parts,77,77,1
+2026-09-30,Louisville KY,Electronics,68,68,1
+2026-09-30,Louisville KY,Fixtures,50,50,1
+2026-09-30,Louisville KY,Accessories,76,76,1
+2026-09-30,Louisville KY,Electronics,35,35,1
+2026-09-30,Louisville KY,Fixtures,93,93,1
+2026-09-30,Louisville KY,Spare Parts,106,106,1
+2026-09-30,Louisville KY,Spare Parts,93,93,1
+2026-09-30,Louisville KY,Accessories,65,65,1
+2026-09-30,Louisville KY,Accessories,50,50,1
+2026-09-30,Louisville KY,Accessories,34,34,1
+2026-09-30,Louisville KY,Electronics,100,100,1
+2026-09-30,Louisville KY,Fixtures,29,29,1
+2026-09-30,Louisville KY,Accessories,17,17,1
+2026-09-30,Louisville KY,Accessories,27,27,1
+2026-09-30,Louisville KY,Fixtures,40,40,1
+2026-09-30,Memphis TN,Fixtures,86,86,1
+2026-09-30,Memphis TN,Electronics,78,78,1
+2026-09-30,Memphis TN,Accessories,28,4,0
+2026-09-30,Memphis TN,Spare Parts,19,19,1
+2026-09-30,Memphis TN,Electronics,78,78,1
+2026-09-30,Memphis TN,Fixtures,108,108,1
+2026-09-30,Memphis TN,Fixtures,20,20,1
+2026-09-30,Memphis TN,Fixtures,104,104,1
+2026-09-30,Memphis TN,Spare Parts,43,43,0
+2026-09-30,Memphis TN,Accessories,77,77,1
+2026-09-30,Memphis TN,Electronics,102,102,1
+2026-09-30,Memphis TN,Electronics,25,25,1
+2026-09-30,Memphis TN,Fixtures,5,5,1
+2026-09-30,Memphis TN,Spare Parts,42,42,1
+2026-09-30,Memphis TN,Accessories,94,94,1
+2026-09-30,Memphis TN,Fixtures,38,38,1
+2026-09-30,Memphis TN,Fixtures,59,59,1
+2026-09-30,Memphis TN,Fixtures,39,39,1
+2026-09-30,Memphis TN,Fixtures,106,106,1
+2026-09-30,Memphis TN,Accessories,61,61,1
+2026-09-30,Memphis TN,Spare Parts,39,39,1
+2026-09-30,Memphis TN,Electronics,81,81,1
+2026-09-30,Indianapolis IN,Accessories,8,8,0
+2026-09-30,Indianapolis IN,Electronics,102,102,1
+2026-09-30,Indianapolis IN,Electronics,102,102,1
+2026-09-30,Indianapolis IN,Spare Parts,40,40,1
+2026-09-30,Indianapolis IN,Spare Parts,16,16,1
+2026-09-30,Indianapolis IN,Accessories,90,90,1
+2026-09-30,Indianapolis IN,Spare Parts,93,93,1
+2026-09-30,Indianapolis IN,Spare Parts,109,109,1
+2026-09-30,Indianapolis IN,Electronics,45,45,1
+2026-09-30,Indianapolis IN,Spare Parts,115,115,0
+2026-09-30,Indianapolis IN,Spare Parts,57,57,1
+2026-09-30,Indianapolis IN,Spare Parts,85,85,1
+2026-09-30,Indianapolis IN,Accessories,75,75,1
+2026-09-30,Indianapolis IN,Spare Parts,20,20,1
+2026-09-30,Indianapolis IN,Fixtures,95,95,1
+2026-09-30,Indianapolis IN,Spare Parts,16,16,1
+2026-09-30,Indianapolis IN,Electronics,64,64,1
+2026-09-30,Indianapolis IN,Fixtures,68,68,1
+2026-09-30,Indianapolis IN,Accessories,58,58,0
+2026-09-30,Indianapolis IN,Fixtures,63,63,1
+2026-09-30,Indianapolis IN,Fixtures,115,115,1
+2026-09-30,Indianapolis IN,Spare Parts,48,16,1
+2026-09-30,Indianapolis IN,Electronics,41,41,1
+2026-10-01,Louisville KY,Spare Parts,115,115,1
+2026-10-01,Louisville KY,Accessories,47,47,1
+2026-10-01,Louisville KY,Spare Parts,46,46,0
+2026-10-01,Louisville KY,Fixtures,78,78,1
+2026-10-01,Louisville KY,Spare Parts,10,10,1
+2026-10-01,Louisville KY,Spare Parts,54,25,1
+2026-10-01,Louisville KY,Fixtures,68,68,1
+2026-10-01,Louisville KY,Accessories,116,116,1
+2026-10-01,Louisville KY,Electronics,72,72,1
+2026-10-01,Louisville KY,Fixtures,57,57,1
+2026-10-01,Louisville KY,Electronics,65,65,1
+2026-10-01,Louisville KY,Spare Parts,88,88,1
+2026-10-01,Louisville KY,Spare Parts,45,45,1
+2026-10-01,Louisville KY,Spare Parts,116,116,1
+2026-10-01,Louisville KY,Fixtures,85,85,1
+2026-10-01,Louisville KY,Fixtures,100,100,1
+2026-10-01,Louisville KY,Electronics,61,61,1
+2026-10-01,Louisville KY,Electronics,10,10,1
+2026-10-01,Louisville KY,Accessories,52,52,1
+2026-10-01,Louisville KY,Spare Parts,77,77,1
+2026-10-01,Louisville KY,Fixtures,15,15,1
+2026-10-01,Louisville KY,Fixtures,68,68,1
+2026-10-01,Louisville KY,Spare Parts,86,86,1
+2026-10-01,Louisville KY,Electronics,120,120,1
+2026-10-01,Louisville KY,Fixtures,14,14,1
+2026-10-01,Louisville KY,Accessories,86,86,1
+2026-10-01,Louisville KY,Spare Parts,113,113,0
+2026-10-01,Memphis TN,Electronics,35,35,1
+2026-10-01,Memphis TN,Accessories,94,94,0
+2026-10-01,Memphis TN,Spare Parts,40,40,1
+2026-10-01,Memphis TN,Electronics,82,82,1
+2026-10-01,Memphis TN,Accessories,104,104,1
+2026-10-01,Memphis TN,Accessories,33,33,1
+2026-10-01,Memphis TN,Fixtures,85,85,1
+2026-10-01,Memphis TN,Electronics,44,44,1
+2026-10-01,Memphis TN,Accessories,98,98,1
+2026-10-01,Memphis TN,Accessories,100,100,1
+2026-10-01,Memphis TN,Accessories,72,72,1
+2026-10-01,Memphis TN,Fixtures,37,37,0
+2026-10-01,Memphis TN,Accessories,100,100,1
+2026-10-01,Memphis TN,Spare Parts,14,14,0
+2026-10-01,Memphis TN,Spare Parts,113,113,1
+2026-10-01,Memphis TN,Spare Parts,6,6,1
+2026-10-01,Memphis TN,Accessories,91,91,1
+2026-10-01,Memphis TN,Spare Parts,110,110,1
+2026-10-01,Memphis TN,Fixtures,65,65,1
+2026-10-01,Memphis TN,Accessories,83,83,1
+2026-10-01,Memphis TN,Spare Parts,94,94,1
+2026-10-01,Memphis TN,Fixtures,10,2,0
+2026-10-01,Memphis TN,Electronics,17,17,1
+2026-10-01,Memphis TN,Spare Parts,63,63,0
+2026-10-01,Memphis TN,Spare Parts,80,80,1
+2026-10-01,Indianapolis IN,Electronics,111,111,1
+2026-10-01,Indianapolis IN,Accessories,9,9,1
+2026-10-01,Indianapolis IN,Spare Parts,35,35,1
+2026-10-01,Indianapolis IN,Accessories,74,74,1
+2026-10-01,Indianapolis IN,Electronics,55,55,0
+2026-10-01,Indianapolis IN,Spare Parts,16,16,1
+2026-10-01,Indianapolis IN,Electronics,11,11,1
+2026-10-01,Indianapolis IN,Fixtures,105,105,1
+2026-10-01,Indianapolis IN,Fixtures,80,80,1
+2026-10-01,Indianapolis IN,Accessories,104,104,1
+2026-10-01,Indianapolis IN,Electronics,40,40,1
+2026-10-01,Indianapolis IN,Fixtures,74,74,1
+2026-10-01,Indianapolis IN,Electronics,21,21,1
+2026-10-01,Indianapolis IN,Fixtures,80,80,1
+2026-10-01,Indianapolis IN,Electronics,21,21,1
+2026-10-01,Indianapolis IN,Electronics,65,65,1
+2026-10-01,Indianapolis IN,Electronics,62,62,1
+2026-10-01,Indianapolis IN,Electronics,98,98,1
+2026-10-01,Indianapolis IN,Accessories,63,63,1
+2026-10-01,Indianapolis IN,Spare Parts,113,113,1
+2026-10-01,Indianapolis IN,Spare Parts,96,96,1
+2026-10-01,Indianapolis IN,Electronics,46,46,1
+2026-10-01,Indianapolis IN,Accessories,84,84,1
+2026-10-01,Indianapolis IN,Accessories,53,16,1
+2026-10-02,Louisville KY,Spare Parts,17,17,1
+2026-10-02,Louisville KY,Fixtures,60,60,1
+2026-10-02,Louisville KY,Accessories,110,110,1
+2026-10-02,Louisville KY,Electronics,45,45,1
+2026-10-02,Louisville KY,Accessories,24,24,1
+2026-10-02,Louisville KY,Electronics,111,111,1
+2026-10-02,Louisville KY,Accessories,108,108,1
+2026-10-02,Louisville KY,Accessories,90,90,1
+2026-10-02,Louisville KY,Spare Parts,116,116,1
+2026-10-02,Louisville KY,Accessories,81,81,1
+2026-10-02,Louisville KY,Fixtures,24,24,1
+2026-10-02,Louisville KY,Electronics,49,49,1
+2026-10-02,Louisville KY,Accessories,78,78,1
+2026-10-02,Louisville KY,Electronics,82,82,1
+2026-10-02,Louisville KY,Accessories,8,8,1
+2026-10-02,Louisville KY,Accessories,48,48,1
+2026-10-02,Louisville KY,Fixtures,77,77,1
+2026-10-02,Louisville KY,Electronics,16,16,1
+2026-10-02,Louisville KY,Spare Parts,63,63,1
+2026-10-02,Louisville KY,Accessories,104,104,1
+2026-10-02,Louisville KY,Electronics,24,24,1
+2026-10-02,Louisville KY,Electronics,39,39,1
+2026-10-02,Louisville KY,Spare Parts,58,58,1
+2026-10-02,Louisville KY,Electronics,49,49,1
+2026-10-02,Louisville KY,Spare Parts,72,72,1
+2026-10-02,Louisville KY,Spare Parts,81,81,1
+2026-10-02,Memphis TN,Fixtures,102,102,1
+2026-10-02,Memphis TN,Electronics,68,68,1
+2026-10-02,Memphis TN,Spare Parts,73,73,1
+2026-10-02,Memphis TN,Accessories,14,14,1
+2026-10-02,Memphis TN,Spare Parts,7,7,1
+2026-10-02,Memphis TN,Accessories,78,78,1
+2026-10-02,Memphis TN,Spare Parts,42,42,1
+2026-10-02,Memphis TN,Accessories,26,26,1
+2026-10-02,Memphis TN,Accessories,16,16,1
+2026-10-02,Memphis TN,Spare Parts,80,80,1
+2026-10-02,Memphis TN,Accessories,100,100,1
+2026-10-02,Memphis TN,Fixtures,14,14,1
+2026-10-02,Memphis TN,Fixtures,120,120,1
+2026-10-02,Memphis TN,Fixtures,35,35,1
+2026-10-02,Memphis TN,Fixtures,82,82,1
+2026-10-02,Memphis TN,Electronics,27,10,1
+2026-10-02,Memphis TN,Spare Parts,92,36,1
+2026-10-02,Memphis TN,Accessories,115,20,1
+2026-10-02,Memphis TN,Electronics,65,65,1
+2026-10-02,Memphis TN,Accessories,80,80,1
+2026-10-02,Memphis TN,Accessories,64,64,1
+2026-10-02,Indianapolis IN,Electronics,87,87,1
+2026-10-02,Indianapolis IN,Spare Parts,64,64,0
+2026-10-02,Indianapolis IN,Electronics,62,62,1
+2026-10-02,Indianapolis IN,Fixtures,46,46,1
+2026-10-02,Indianapolis IN,Electronics,62,62,1
+2026-10-02,Indianapolis IN,Accessories,96,96,1
+2026-10-02,Indianapolis IN,Electronics,36,36,0
+2026-10-02,Indianapolis IN,Fixtures,51,51,1
+2026-10-02,Indianapolis IN,Spare Parts,104,104,1
+2026-10-02,Indianapolis IN,Accessories,13,13,1
+2026-10-02,Indianapolis IN,Spare Parts,41,41,1
+2026-10-02,Indianapolis IN,Fixtures,47,47,1
+2026-10-02,Indianapolis IN,Accessories,44,22,1
+2026-10-02,Indianapolis IN,Fixtures,81,81,1
+2026-10-02,Indianapolis IN,Spare Parts,87,87,1
+2026-10-02,Indianapolis IN,Electronics,87,87,1
+2026-10-02,Indianapolis IN,Electronics,51,51,1
+2026-10-02,Indianapolis IN,Accessories,103,103,1
+2026-10-02,Indianapolis IN,Fixtures,24,24,1
+2026-10-02,Indianapolis IN,Electronics,69,69,1
+2026-10-02,Indianapolis IN,Electronics,89,89,1
+2026-10-02,Indianapolis IN,Fixtures,81,81,1
+2026-10-03,Louisville KY,Fixtures,97,97,1
+2026-10-03,Louisville KY,Fixtures,61,61,1
+2026-10-03,Louisville KY,Spare Parts,34,34,1
+2026-10-03,Louisville KY,Spare Parts,120,120,1
+2026-10-03,Louisville KY,Spare Parts,64,64,1
+2026-10-03,Louisville KY,Spare Parts,25,25,1
+2026-10-03,Louisville KY,Fixtures,116,116,1
+2026-10-03,Louisville KY,Accessories,75,75,1
+2026-10-03,Louisville KY,Electronics,41,41,1
+2026-10-03,Louisville KY,Spare Parts,120,120,1
+2026-10-03,Louisville KY,Electronics,33,33,1
+2026-10-03,Louisville KY,Electronics,58,58,1
+2026-10-03,Louisville KY,Fixtures,54,11,1
+2026-10-03,Louisville KY,Accessories,17,17,1
+2026-10-03,Louisville KY,Fixtures,22,22,1
+2026-10-03,Louisville KY,Spare Parts,94,94,1
+2026-10-03,Louisville KY,Spare Parts,62,62,1
+2026-10-03,Louisville KY,Electronics,37,37,1
+2026-10-03,Louisville KY,Spare Parts,19,19,1
+2026-10-03,Louisville KY,Electronics,11,11,1
+2026-10-03,Louisville KY,Spare Parts,13,13,1
+2026-10-03,Louisville KY,Electronics,85,85,1
+2026-10-03,Louisville KY,Fixtures,42,42,1
+2026-10-03,Louisville KY,Fixtures,78,78,1
+2026-10-03,Louisville KY,Electronics,72,72,1
+2026-10-03,Louisville KY,Electronics,54,54,1
+2026-10-03,Louisville KY,Spare Parts,52,52,1
+2026-10-03,Louisville KY,Electronics,49,49,1
+2026-10-03,Louisville KY,Electronics,103,103,1
+2026-10-03,Memphis TN,Electronics,50,50,1
+2026-10-03,Memphis TN,Fixtures,111,111,1
+2026-10-03,Memphis TN,Spare Parts,85,85,1
+2026-10-03,Memphis TN,Spare Parts,9,9,1
+2026-10-03,Memphis TN,Fixtures,118,118,0
+2026-10-03,Memphis TN,Spare Parts,109,109,1
+2026-10-03,Memphis TN,Fixtures,41,41,1
+2026-10-03,Memphis TN,Accessories,39,39,1
+2026-10-03,Memphis TN,Spare Parts,100,100,0
+2026-10-03,Memphis TN,Accessories,28,28,1
+2026-10-03,Memphis TN,Accessories,107,107,1
+2026-10-03,Memphis TN,Spare Parts,82,11,1
+2026-10-03,Memphis TN,Accessories,18,18,1
+2026-10-03,Memphis TN,Accessories,62,62,1
+2026-10-03,Memphis TN,Spare Parts,49,49,1
+2026-10-03,Memphis TN,Accessories,83,17,1
+2026-10-03,Memphis TN,Electronics,14,14,1
+2026-10-03,Memphis TN,Fixtures,8,8,1
+2026-10-03,Memphis TN,Spare Parts,9,9,1
+2026-10-03,Memphis TN,Accessories,51,51,1
+2026-10-03,Indianapolis IN,Fixtures,91,91,1
+2026-10-03,Indianapolis IN,Spare Parts,102,102,1
+2026-10-03,Indianapolis IN,Accessories,55,55,1
+2026-10-03,Indianapolis IN,Electronics,8,8,1
+2026-10-03,Indianapolis IN,Spare Parts,76,76,1
+2026-10-03,Indianapolis IN,Spare Parts,32,9,1
+2026-10-03,Indianapolis IN,Spare Parts,30,30,1
+2026-10-03,Indianapolis IN,Spare Parts,27,27,1
+2026-10-03,Indianapolis IN,Electronics,108,108,1
+2026-10-03,Indianapolis IN,Accessories,90,90,1
+2026-10-03,Indianapolis IN,Accessories,119,119,1
+2026-10-03,Indianapolis IN,Fixtures,106,106,1
+2026-10-03,Indianapolis IN,Fixtures,106,106,1
+2026-10-03,Indianapolis IN,Electronics,51,51,1
+2026-10-03,Indianapolis IN,Fixtures,83,83,1
+2026-10-03,Indianapolis IN,Spare Parts,96,96,1
+2026-10-03,Indianapolis IN,Spare Parts,110,110,1
+2026-10-03,Indianapolis IN,Accessories,87,87,1
+2026-10-03,Indianapolis IN,Accessories,21,21,1
+2026-10-03,Indianapolis IN,Fixtures,103,27,1
+2026-10-03,Indianapolis IN,Electronics,111,111,1
+2026-10-03,Indianapolis IN,Fixtures,25,25,1
+2026-10-03,Indianapolis IN,Accessories,71,71,1
+2026-10-03,Indianapolis IN,Accessories,30,30,1
+2026-10-03,Indianapolis IN,Fixtures,85,85,1
+2026-10-03,Indianapolis IN,Fixtures,80,80,1
+2026-10-03,Indianapolis IN,Accessories,112,112,1
+2026-10-04,Louisville KY,Electronics,10,10,1
+2026-10-04,Louisville KY,Accessories,88,88,1
+2026-10-04,Louisville KY,Electronics,68,68,1
+2026-10-04,Louisville KY,Accessories,66,66,1
+2026-10-04,Louisville KY,Spare Parts,43,43,1
+2026-10-04,Louisville KY,Fixtures,61,61,1
+2026-10-04,Louisville KY,Accessories,82,82,1
+2026-10-04,Louisville KY,Accessories,98,98,1
+2026-10-04,Louisville KY,Spare Parts,21,21,1
+2026-10-04,Louisville KY,Electronics,45,45,1
+2026-10-04,Louisville KY,Spare Parts,36,36,1
+2026-10-04,Louisville KY,Spare Parts,115,115,1
+2026-10-04,Louisville KY,Fixtures,109,109,1
+2026-10-04,Louisville KY,Accessories,29,29,1
+2026-10-04,Louisville KY,Spare Parts,68,68,1
+2026-10-04,Louisville KY,Electronics,55,55,1
+2026-10-04,Louisville KY,Fixtures,79,79,1
+2026-10-04,Louisville KY,Spare Parts,81,81,1
+2026-10-04,Memphis TN,Accessories,73,73,1
+2026-10-04,Memphis TN,Fixtures,117,117,1
+2026-10-04,Memphis TN,Spare Parts,51,51,1
+2026-10-04,Memphis TN,Fixtures,51,51,1
+2026-10-04,Memphis TN,Spare Parts,102,102,1
+2026-10-04,Memphis TN,Electronics,21,6,1
+2026-10-04,Memphis TN,Accessories,76,76,1
+2026-10-04,Memphis TN,Fixtures,82,82,1
+2026-10-04,Memphis TN,Electronics,9,9,1
+2026-10-04,Memphis TN,Spare Parts,71,71,1
+2026-10-04,Memphis TN,Fixtures,46,46,1
+2026-10-04,Memphis TN,Spare Parts,83,83,1
+2026-10-04,Memphis TN,Accessories,69,69,1
+2026-10-04,Memphis TN,Accessories,65,65,1
+2026-10-04,Memphis TN,Electronics,58,58,1
+2026-10-04,Memphis TN,Electronics,81,81,0
+2026-10-04,Memphis TN,Fixtures,97,97,1
+2026-10-04,Memphis TN,Spare Parts,23,23,1
+2026-10-04,Memphis TN,Electronics,29,29,1
+2026-10-04,Memphis TN,Fixtures,57,57,1
+2026-10-04,Memphis TN,Spare Parts,116,116,1
+2026-10-04,Memphis TN,Fixtures,71,71,1
+2026-10-04,Memphis TN,Spare Parts,72,72,0
+2026-10-04,Memphis TN,Spare Parts,73,73,1
+2026-10-04,Memphis TN,Accessories,83,83,0
+2026-10-04,Indianapolis IN,Accessories,33,33,0
+2026-10-04,Indianapolis IN,Accessories,95,95,1
+2026-10-04,Indianapolis IN,Accessories,66,66,1
+2026-10-04,Indianapolis IN,Accessories,41,41,1
+2026-10-04,Indianapolis IN,Spare Parts,119,52,1
+2026-10-04,Indianapolis IN,Fixtures,42,42,0
+2026-10-04,Indianapolis IN,Electronics,49,49,1
+2026-10-04,Indianapolis IN,Spare Parts,32,32,1
+2026-10-04,Indianapolis IN,Accessories,22,22,1
+2026-10-04,Indianapolis IN,Fixtures,36,36,1
+2026-10-04,Indianapolis IN,Fixtures,86,86,1
+2026-10-04,Indianapolis IN,Accessories,96,96,1
+2026-10-04,Indianapolis IN,Fixtures,5,5,0
+2026-10-04,Indianapolis IN,Fixtures,57,57,1
+2026-10-04,Indianapolis IN,Spare Parts,66,66,1
+2026-10-04,Indianapolis IN,Accessories,46,46,1
+2026-10-04,Indianapolis IN,Electronics,88,88,1
+2026-10-04,Indianapolis IN,Electronics,27,27,1
+2026-10-04,Indianapolis IN,Electronics,112,112,1
+2026-10-04,Indianapolis IN,Accessories,117,117,1
+2026-10-04,Indianapolis IN,Electronics,47,47,0
+2026-10-04,Indianapolis IN,Spare Parts,118,54,1
+2026-10-05,Louisville KY,Fixtures,108,108,1
+2026-10-05,Louisville KY,Spare Parts,87,87,1
+2026-10-05,Louisville KY,Accessories,106,106,1
+2026-10-05,Louisville KY,Fixtures,27,27,1
+2026-10-05,Louisville KY,Spare Parts,110,110,1
+2026-10-05,Louisville KY,Spare Parts,90,90,0
+2026-10-05,Louisville KY,Spare Parts,46,46,1
+2026-10-05,Louisville KY,Spare Parts,35,35,1
+2026-10-05,Louisville KY,Accessories,43,43,1
+2026-10-05,Louisville KY,Accessories,88,88,1
+2026-10-05,Louisville KY,Electronics,64,64,1
+2026-10-05,Louisville KY,Accessories,93,93,1
+2026-10-05,Louisville KY,Accessories,52,52,1
+2026-10-05,Louisville KY,Fixtures,66,66,1
+2026-10-05,Louisville KY,Accessories,58,58,1
+2026-10-05,Louisville KY,Fixtures,102,102,1
+2026-10-05,Louisville KY,Electronics,72,72,1
+2026-10-05,Louisville KY,Electronics,77,77,1
+2026-10-05,Louisville KY,Fixtures,78,78,1
+2026-10-05,Louisville KY,Spare Parts,19,19,1
+2026-10-05,Louisville KY,Spare Parts,16,16,1
+2026-10-05,Louisville KY,Electronics,63,63,1
+2026-10-05,Memphis TN,Electronics,76,76,1
+2026-10-05,Memphis TN,Electronics,55,55,1
+2026-10-05,Memphis TN,Fixtures,79,79,1
+2026-10-05,Memphis TN,Electronics,74,4,0
+2026-10-05,Memphis TN,Spare Parts,9,9,1
+2026-10-05,Memphis TN,Fixtures,103,103,1
+2026-10-05,Memphis TN,Spare Parts,52,12,1
+2026-10-05,Memphis TN,Spare Parts,53,53,0
+2026-10-05,Memphis TN,Fixtures,88,88,1
+2026-10-05,Memphis TN,Spare Parts,72,72,0
+2026-10-05,Memphis TN,Electronics,101,101,1
+2026-10-05,Memphis TN,Spare Parts,73,73,1
+2026-10-05,Memphis TN,Spare Parts,49,49,1
+2026-10-05,Memphis TN,Electronics,9,9,1
+2026-10-05,Memphis TN,Electronics,35,35,1
+2026-10-05,Memphis TN,Electronics,62,62,1
+2026-10-05,Memphis TN,Electronics,36,36,1
+2026-10-05,Memphis TN,Fixtures,74,74,1
+2026-10-05,Memphis TN,Electronics,22,22,1
+2026-10-05,Memphis TN,Accessories,78,78,1
+2026-10-05,Memphis TN,Accessories,35,35,1
+2026-10-05,Memphis TN,Fixtures,57,57,1
+2026-10-05,Memphis TN,Fixtures,85,85,1
+2026-10-05,Memphis TN,Electronics,49,21,1
+2026-10-05,Memphis TN,Accessories,94,94,1
+2026-10-05,Memphis TN,Spare Parts,28,28,1
+2026-10-05,Memphis TN,Fixtures,43,43,1
+2026-10-05,Indianapolis IN,Electronics,76,76,1
+2026-10-05,Indianapolis IN,Fixtures,54,54,1
+2026-10-05,Indianapolis IN,Electronics,62,62,1
+2026-10-05,Indianapolis IN,Fixtures,11,11,1
+2026-10-05,Indianapolis IN,Electronics,116,116,1
+2026-10-05,Indianapolis IN,Fixtures,66,66,1
+2026-10-05,Indianapolis IN,Accessories,6,6,1
+2026-10-05,Indianapolis IN,Electronics,100,30,1
+2026-10-05,Indianapolis IN,Fixtures,55,55,1
+2026-10-05,Indianapolis IN,Accessories,53,53,1
+2026-10-05,Indianapolis IN,Accessories,38,38,1
+2026-10-05,Indianapolis IN,Spare Parts,17,17,1
+2026-10-05,Indianapolis IN,Accessories,31,31,1
+2026-10-05,Indianapolis IN,Fixtures,99,99,1
+2026-10-05,Indianapolis IN,Spare Parts,42,42,1
+2026-10-05,Indianapolis IN,Spare Parts,77,77,1
+2026-10-05,Indianapolis IN,Accessories,37,37,1
+2026-10-05,Indianapolis IN,Spare Parts,63,63,1
+2026-10-05,Indianapolis IN,Fixtures,22,22,1
+2026-10-05,Indianapolis IN,Electronics,72,72,1
+2026-10-05,Indianapolis IN,Electronics,102,102,1
+2026-10-05,Indianapolis IN,Fixtures,13,13,1
+2026-10-05,Indianapolis IN,Spare Parts,52,52,1
+2026-10-05,Indianapolis IN,Spare Parts,89,89,1
+2026-10-05,Indianapolis IN,Spare Parts,6,6,1
+2026-10-06,Louisville KY,Accessories,7,7,1
+2026-10-06,Louisville KY,Spare Parts,108,108,1
+2026-10-06,Louisville KY,Electronics,72,72,1
+2026-10-06,Louisville KY,Accessories,109,109,1
+2026-10-06,Louisville KY,Electronics,52,52,1
+2026-10-06,Louisville KY,Fixtures,94,94,1
+2026-10-06,Louisville KY,Electronics,88,41,1
+2026-10-06,Louisville KY,Electronics,56,56,1
+2026-10-06,Louisville KY,Electronics,86,86,1
+2026-10-06,Louisville KY,Spare Parts,113,113,1
+2026-10-06,Louisville KY,Electronics,119,119,1
+2026-10-06,Louisville KY,Fixtures,120,120,1
+2026-10-06,Louisville KY,Spare Parts,39,39,1
+2026-10-06,Louisville KY,Accessories,120,120,1
+2026-10-06,Louisville KY,Fixtures,113,113,1
+2026-10-06,Louisville KY,Fixtures,101,101,1
+2026-10-06,Louisville KY,Electronics,43,43,1
+2026-10-06,Louisville KY,Spare Parts,91,91,1
+2026-10-06,Louisville KY,Fixtures,106,106,1
+2026-10-06,Louisville KY,Accessories,11,11,1
+2026-10-06,Louisville KY,Electronics,48,48,1
+2026-10-06,Louisville KY,Spare Parts,104,104,1
+2026-10-06,Louisville KY,Spare Parts,67,67,1
+2026-10-06,Louisville KY,Spare Parts,60,60,1
+2026-10-06,Louisville KY,Spare Parts,15,15,1
+2026-10-06,Louisville KY,Fixtures,96,96,1
+2026-10-06,Memphis TN,Fixtures,99,99,1
+2026-10-06,Memphis TN,Electronics,5,1,1
+2026-10-06,Memphis TN,Accessories,18,18,1
+2026-10-06,Memphis TN,Spare Parts,76,76,1
+2026-10-06,Memphis TN,Electronics,16,16,1
+2026-10-06,Memphis TN,Accessories,115,115,1
+2026-10-06,Memphis TN,Spare Parts,104,104,0
+2026-10-06,Memphis TN,Fixtures,78,78,1
+2026-10-06,Memphis TN,Fixtures,22,22,1
+2026-10-06,Memphis TN,Fixtures,13,13,1
+2026-10-06,Memphis TN,Accessories,66,66,1
+2026-10-06,Memphis TN,Fixtures,97,97,1
+2026-10-06,Memphis TN,Fixtures,63,63,1
+2026-10-06,Memphis TN,Spare Parts,47,47,1
+2026-10-06,Memphis TN,Accessories,61,61,1
+2026-10-06,Memphis TN,Fixtures,43,43,0
+2026-10-06,Memphis TN,Fixtures,66,66,0
+2026-10-06,Memphis TN,Accessories,42,42,1
+2026-10-06,Memphis TN,Fixtures,46,46,1
+2026-10-06,Memphis TN,Spare Parts,51,51,1
+2026-10-06,Memphis TN,Fixtures,92,92,1
+2026-10-06,Memphis TN,Spare Parts,95,95,1
+2026-10-06,Memphis TN,Electronics,109,109,1
+2026-10-06,Memphis TN,Spare Parts,22,22,1
+2026-10-06,Indianapolis IN,Fixtures,96,96,1
+2026-10-06,Indianapolis IN,Spare Parts,81,81,1
+2026-10-06,Indianapolis IN,Spare Parts,74,74,0
+2026-10-06,Indianapolis IN,Electronics,18,18,1
+2026-10-06,Indianapolis IN,Accessories,26,26,1
+2026-10-06,Indianapolis IN,Spare Parts,101,101,1
+2026-10-06,Indianapolis IN,Electronics,6,6,1
+2026-10-06,Indianapolis IN,Fixtures,62,62,1
+2026-10-06,Indianapolis IN,Fixtures,49,15,1
+2026-10-06,Indianapolis IN,Spare Parts,15,15,0
+2026-10-06,Indianapolis IN,Fixtures,49,49,1
+2026-10-06,Indianapolis IN,Fixtures,71,71,1
+2026-10-06,Indianapolis IN,Spare Parts,97,97,1
+2026-10-06,Indianapolis IN,Accessories,10,10,1
+2026-10-06,Indianapolis IN,Accessories,87,87,1
+2026-10-06,Indianapolis IN,Fixtures,71,71,1
+2026-10-06,Indianapolis IN,Spare Parts,64,64,1
+2026-10-06,Indianapolis IN,Fixtures,28,28,1
+2026-10-06,Indianapolis IN,Electronics,99,99,1
+2026-10-06,Indianapolis IN,Spare Parts,54,54,1
+2026-10-06,Indianapolis IN,Accessories,101,101,1
+2026-10-06,Indianapolis IN,Electronics,107,107,1
+2026-10-06,Indianapolis IN,Accessories,30,30,1
+2026-10-06,Indianapolis IN,Spare Parts,72,20,1
+2026-10-06,Indianapolis IN,Spare Parts,80,80,1
+2026-10-06,Indianapolis IN,Spare Parts,84,84,1
+2026-10-06,Indianapolis IN,Accessories,83,83,1
+2026-10-06,Indianapolis IN,Accessories,20,20,1
+2026-10-07,Louisville KY,Fixtures,70,70,1
+2026-10-07,Louisville KY,Spare Parts,59,59,1
+2026-10-07,Louisville KY,Fixtures,76,76,1
+2026-10-07,Louisville KY,Fixtures,45,45,1
+2026-10-07,Louisville KY,Accessories,6,6,1
+2026-10-07,Louisville KY,Spare Parts,76,76,1
+2026-10-07,Louisville KY,Spare Parts,58,58,1
+2026-10-07,Louisville KY,Fixtures,15,15,1
+2026-10-07,Louisville KY,Fixtures,42,42,1
+2026-10-07,Louisville KY,Accessories,26,26,1
+2026-10-07,Louisville KY,Spare Parts,75,75,1
+2026-10-07,Louisville KY,Accessories,104,104,0
+2026-10-07,Louisville KY,Electronics,102,102,1
+2026-10-07,Louisville KY,Spare Parts,18,18,1
+2026-10-07,Louisville KY,Fixtures,43,43,1
+2026-10-07,Louisville KY,Accessories,49,49,1
+2026-10-07,Louisville KY,Electronics,104,104,1
+2026-10-07,Louisville KY,Accessories,115,115,1
+2026-10-07,Louisville KY,Fixtures,83,83,1
+2026-10-07,Louisville KY,Fixtures,108,108,1
+2026-10-07,Louisville KY,Accessories,81,81,1
+2026-10-07,Louisville KY,Accessories,42,42,1
+2026-10-07,Louisville KY,Electronics,22,22,1
+2026-10-07,Memphis TN,Accessories,115,115,1
+2026-10-07,Memphis TN,Fixtures,36,36,1
+2026-10-07,Memphis TN,Fixtures,102,102,1
+2026-10-07,Memphis TN,Fixtures,78,78,1
+2026-10-07,Memphis TN,Spare Parts,62,62,1
+2026-10-07,Memphis TN,Electronics,56,56,1
+2026-10-07,Memphis TN,Accessories,63,20,1
+2026-10-07,Memphis TN,Electronics,98,40,1
+2026-10-07,Memphis TN,Accessories,113,113,1
+2026-10-07,Memphis TN,Fixtures,59,59,1
+2026-10-07,Memphis TN,Accessories,111,111,1
+2026-10-07,Memphis TN,Fixtures,77,77,1
+2026-10-07,Memphis TN,Electronics,10,10,1
+2026-10-07,Memphis TN,Spare Parts,7,7,1
+2026-10-07,Memphis TN,Spare Parts,63,63,0
+2026-10-07,Memphis TN,Fixtures,93,93,1
+2026-10-07,Memphis TN,Accessories,25,25,1
+2026-10-07,Memphis TN,Electronics,88,88,1
+2026-10-07,Indianapolis IN,Fixtures,11,11,1
+2026-10-07,Indianapolis IN,Fixtures,59,59,1
+2026-10-07,Indianapolis IN,Electronics,32,32,1
+2026-10-07,Indianapolis IN,Fixtures,71,71,1
+2026-10-07,Indianapolis IN,Accessories,109,109,1
+2026-10-07,Indianapolis IN,Fixtures,66,66,1
+2026-10-07,Indianapolis IN,Electronics,18,18,1
+2026-10-07,Indianapolis IN,Fixtures,53,53,1
+2026-10-07,Indianapolis IN,Fixtures,87,9,1
+2026-10-07,Indianapolis IN,Electronics,83,83,1
+2026-10-07,Indianapolis IN,Fixtures,85,85,1
+2026-10-07,Indianapolis IN,Spare Parts,115,115,1
+2026-10-07,Indianapolis IN,Fixtures,101,101,1
+2026-10-07,Indianapolis IN,Accessories,59,59,1
+2026-10-07,Indianapolis IN,Accessories,87,87,1
+2026-10-07,Indianapolis IN,Accessories,104,104,1
+2026-10-07,Indianapolis IN,Accessories,31,31,1
+2026-10-07,Indianapolis IN,Spare Parts,42,42,1
+2026-10-07,Indianapolis IN,Fixtures,68,68,1
+2026-10-07,Indianapolis IN,Electronics,72,72,1
+2026-10-07,Indianapolis IN,Accessories,45,45,1
+2026-10-07,Indianapolis IN,Spare Parts,51,51,1
+2026-10-07,Indianapolis IN,Spare Parts,103,103,1
+2026-10-07,Indianapolis IN,Electronics,38,38,1
+2026-10-07,Indianapolis IN,Spare Parts,69,69,1
+2026-10-07,Indianapolis IN,Spare Parts,59,59,1
+2026-10-07,Indianapolis IN,Fixtures,40,40,1
+2026-10-07,Indianapolis IN,Fixtures,108,108,1
+2026-10-08,Louisville KY,Electronics,44,44,1
+2026-10-08,Louisville KY,Fixtures,12,12,1
+2026-10-08,Louisville KY,Electronics,63,63,1
+2026-10-08,Louisville KY,Fixtures,20,20,1
+2026-10-08,Louisville KY,Electronics,25,25,1
+2026-10-08,Louisville KY,Accessories,26,26,1
+2026-10-08,Louisville KY,Accessories,98,98,1
+2026-10-08,Louisville KY,Electronics,47,47,1
+2026-10-08,Louisville KY,Electronics,38,38,1
+2026-10-08,Louisville KY,Electronics,68,68,1
+2026-10-08,Louisville KY,Spare Parts,114,114,1
+2026-10-08,Louisville KY,Accessories,103,103,1
+2026-10-08,Louisville KY,Electronics,34,34,1
+2026-10-08,Louisville KY,Electronics,36,36,1
+2026-10-08,Louisville KY,Fixtures,27,27,1
+2026-10-08,Louisville KY,Spare Parts,33,33,1
+2026-10-08,Louisville KY,Accessories,39,39,1
+2026-10-08,Louisville KY,Electronics,69,69,1
+2026-10-08,Louisville KY,Fixtures,107,107,1
+2026-10-08,Louisville KY,Spare Parts,13,13,1
+2026-10-08,Louisville KY,Accessories,46,46,1
+2026-10-08,Louisville KY,Accessories,30,30,1
+2026-10-08,Louisville KY,Fixtures,64,64,1
+2026-10-08,Louisville KY,Fixtures,98,98,1
+2026-10-08,Louisville KY,Fixtures,24,24,1
+2026-10-08,Louisville KY,Fixtures,74,74,1
+2026-10-08,Louisville KY,Electronics,47,47,1
+2026-10-08,Memphis TN,Accessories,18,18,0
+2026-10-08,Memphis TN,Spare Parts,67,9,1
+2026-10-08,Memphis TN,Electronics,10,10,1
+2026-10-08,Memphis TN,Spare Parts,94,29,0
+2026-10-08,Memphis TN,Electronics,79,79,1
+2026-10-08,Memphis TN,Spare Parts,14,14,1
+2026-10-08,Memphis TN,Fixtures,35,35,1
+2026-10-08,Memphis TN,Spare Parts,94,94,1
+2026-10-08,Memphis TN,Spare Parts,39,39,0
+2026-10-08,Memphis TN,Fixtures,104,104,1
+2026-10-08,Memphis TN,Electronics,26,26,1
+2026-10-08,Memphis TN,Electronics,73,73,1
+2026-10-08,Memphis TN,Spare Parts,44,44,1
+2026-10-08,Memphis TN,Electronics,25,25,1
+2026-10-08,Memphis TN,Electronics,32,32,1
+2026-10-08,Memphis TN,Electronics,96,96,1
+2026-10-08,Memphis TN,Electronics,91,91,1
+2026-10-08,Memphis TN,Fixtures,8,3,1
+2026-10-08,Memphis TN,Fixtures,17,17,1
+2026-10-08,Memphis TN,Fixtures,20,20,1
+2026-10-08,Memphis TN,Fixtures,21,21,1
+2026-10-08,Memphis TN,Electronics,79,79,1
+2026-10-08,Memphis TN,Electronics,7,1,1
+2026-10-08,Memphis TN,Spare Parts,108,108,0
+2026-10-08,Memphis TN,Accessories,20,20,1
+2026-10-08,Memphis TN,Fixtures,78,78,1
+2026-10-08,Memphis TN,Spare Parts,8,8,1
+2026-10-08,Memphis TN,Accessories,32,32,1
+2026-10-08,Memphis TN,Spare Parts,118,118,1
+2026-10-08,Indianapolis IN,Fixtures,87,87,1
+2026-10-08,Indianapolis IN,Spare Parts,12,12,1
+2026-10-08,Indianapolis IN,Spare Parts,30,30,1
+2026-10-08,Indianapolis IN,Fixtures,85,34,1
+2026-10-08,Indianapolis IN,Spare Parts,105,105,1
+2026-10-08,Indianapolis IN,Spare Parts,49,49,1
+2026-10-08,Indianapolis IN,Spare Parts,39,39,1
+2026-10-08,Indianapolis IN,Fixtures,8,8,1
+2026-10-08,Indianapolis IN,Electronics,108,33,1
+2026-10-08,Indianapolis IN,Fixtures,25,25,1
+2026-10-08,Indianapolis IN,Accessories,73,73,1
+2026-10-08,Indianapolis IN,Electronics,102,14,1
+2026-10-08,Indianapolis IN,Spare Parts,50,5,1
+2026-10-08,Indianapolis IN,Accessories,108,108,1
+2026-10-08,Indianapolis IN,Electronics,95,95,1
+2026-10-08,Indianapolis IN,Fixtures,77,77,1
+2026-10-08,Indianapolis IN,Spare Parts,74,74,1
+2026-10-08,Indianapolis IN,Electronics,12,12,1
+2026-10-08,Indianapolis IN,Spare Parts,5,5,1
+2026-10-08,Indianapolis IN,Fixtures,48,48,1
+2026-10-08,Indianapolis IN,Accessories,12,12,1
+2026-10-08,Indianapolis IN,Fixtures,104,104,1
+2026-10-08,Indianapolis IN,Accessories,14,14,1
+2026-10-08,Indianapolis IN,Spare Parts,80,80,1
+2026-10-08,Indianapolis IN,Fixtures,25,25,1
+2026-10-08,Indianapolis IN,Spare Parts,88,88,1
+2026-10-08,Indianapolis IN,Accessories,33,33,1
+2026-10-09,Louisville KY,Accessories,98,98,1
+2026-10-09,Louisville KY,Electronics,94,94,1
+2026-10-09,Louisville KY,Electronics,28,28,1
+2026-10-09,Louisville KY,Fixtures,86,86,1
+2026-10-09,Louisville KY,Fixtures,47,47,1
+2026-10-09,Louisville KY,Accessories,26,26,1
+2026-10-09,Louisville KY,Accessories,62,62,1
+2026-10-09,Louisville KY,Electronics,49,49,1
+2026-10-09,Louisville KY,Electronics,11,11,1
+2026-10-09,Louisville KY,Fixtures,118,118,1
+2026-10-09,Louisville KY,Accessories,74,74,1
+2026-10-09,Louisville KY,Fixtures,25,25,1
+2026-10-09,Louisville KY,Electronics,42,42,1
+2026-10-09,Louisville KY,Electronics,14,14,1
+2026-10-09,Louisville KY,Fixtures,98,98,1
+2026-10-09,Louisville KY,Electronics,48,48,1
+2026-10-09,Louisville KY,Spare Parts,95,95,0
+2026-10-09,Louisville KY,Fixtures,82,82,1
+2026-10-09,Louisville KY,Electronics,47,47,1
+2026-10-09,Louisville KY,Accessories,89,89,1
+2026-10-09,Louisville KY,Electronics,55,55,1
+2026-10-09,Louisville KY,Fixtures,11,11,1
+2026-10-09,Louisville KY,Accessories,110,110,1
+2026-10-09,Louisville KY,Fixtures,17,17,1
+2026-10-09,Memphis TN,Electronics,65,65,1
+2026-10-09,Memphis TN,Spare Parts,65,65,1
+2026-10-09,Memphis TN,Electronics,87,87,1
+2026-10-09,Memphis TN,Spare Parts,52,52,1
+2026-10-09,Memphis TN,Spare Parts,64,64,1
+2026-10-09,Memphis TN,Electronics,24,24,1
+2026-10-09,Memphis TN,Electronics,90,90,1
+2026-10-09,Memphis TN,Fixtures,75,75,1
+2026-10-09,Memphis TN,Spare Parts,73,73,0
+2026-10-09,Memphis TN,Fixtures,65,65,1
+2026-10-09,Memphis TN,Electronics,69,69,1
+2026-10-09,Memphis TN,Fixtures,20,7,1
+2026-10-09,Memphis TN,Fixtures,32,32,1
+2026-10-09,Memphis TN,Spare Parts,15,6,1
+2026-10-09,Memphis TN,Fixtures,111,111,1
+2026-10-09,Memphis TN,Electronics,16,16,1
+2026-10-09,Memphis TN,Accessories,114,114,1
+2026-10-09,Memphis TN,Electronics,105,105,1
+2026-10-09,Memphis TN,Spare Parts,19,19,1
+2026-10-09,Memphis TN,Electronics,18,18,1
+2026-10-09,Memphis TN,Accessories,116,116,1
+2026-10-09,Memphis TN,Spare Parts,38,38,1
+2026-10-09,Indianapolis IN,Spare Parts,9,9,1
+2026-10-09,Indianapolis IN,Spare Parts,9,9,1
+2026-10-09,Indianapolis IN,Fixtures,11,11,1
+2026-10-09,Indianapolis IN,Accessories,7,7,1
+2026-10-09,Indianapolis IN,Accessories,40,40,1
+2026-10-09,Indianapolis IN,Electronics,116,116,1
+2026-10-09,Indianapolis IN,Spare Parts,104,104,1
+2026-10-09,Indianapolis IN,Spare Parts,82,82,1
+2026-10-09,Indianapolis IN,Fixtures,110,110,1
+2026-10-09,Indianapolis IN,Accessories,110,110,1
+2026-10-09,Indianapolis IN,Electronics,44,44,1
+2026-10-09,Indianapolis IN,Electronics,27,27,1
+2026-10-09,Indianapolis IN,Electronics,36,36,1
+2026-10-09,Indianapolis IN,Accessories,95,95,1
+2026-10-09,Indianapolis IN,Spare Parts,69,69,0
+2026-10-09,Indianapolis IN,Electronics,35,35,1
+2026-10-09,Indianapolis IN,Fixtures,116,116,1
+2026-10-09,Indianapolis IN,Accessories,25,25,1
+2026-10-09,Indianapolis IN,Electronics,41,41,1
+2026-10-09,Indianapolis IN,Fixtures,114,114,1
+2026-10-09,Indianapolis IN,Fixtures,39,39,1
+2026-10-09,Indianapolis IN,Electronics,65,65,1
+2026-10-09,Indianapolis IN,Electronics,33,33,1
+2026-10-09,Indianapolis IN,Accessories,96,41,1
+2026-10-09,Indianapolis IN,Spare Parts,114,114,1
+2026-10-09,Indianapolis IN,Spare Parts,43,43,1
+2026-10-09,Indianapolis IN,Spare Parts,79,79,1
+2026-10-10,Louisville KY,Accessories,76,76,1
+2026-10-10,Louisville KY,Accessories,92,92,1
+2026-10-10,Louisville KY,Accessories,86,86,1
+2026-10-10,Louisville KY,Accessories,29,29,1
+2026-10-10,Louisville KY,Electronics,108,108,1
+2026-10-10,Louisville KY,Spare Parts,89,89,1
+2026-10-10,Louisville KY,Electronics,88,88,1
+2026-10-10,Louisville KY,Spare Parts,56,56,1
+2026-10-10,Louisville KY,Fixtures,48,48,1
+2026-10-10,Louisville KY,Spare Parts,90,90,1
+2026-10-10,Louisville KY,Fixtures,112,112,1
+2026-10-10,Louisville KY,Accessories,17,17,1
+2026-10-10,Louisville KY,Fixtures,92,92,1
+2026-10-10,Louisville KY,Fixtures,50,50,1
+2026-10-10,Louisville KY,Spare Parts,105,105,1
+2026-10-10,Louisville KY,Accessories,64,64,1
+2026-10-10,Louisville KY,Electronics,65,65,1
+2026-10-10,Louisville KY,Spare Parts,72,72,1
+2026-10-10,Louisville KY,Fixtures,22,5,1
+2026-10-10,Louisville KY,Spare Parts,23,23,1
+2026-10-10,Louisville KY,Electronics,67,67,0
+2026-10-10,Louisville KY,Accessories,86,86,1
+2026-10-10,Louisville KY,Fixtures,102,102,1
+2026-10-10,Louisville KY,Fixtures,67,67,1
+2026-10-10,Louisville KY,Fixtures,83,83,1
+2026-10-10,Louisville KY,Spare Parts,66,66,1
+2026-10-10,Louisville KY,Fixtures,98,98,1
+2026-10-10,Louisville KY,Accessories,101,101,1
+2026-10-10,Memphis TN,Electronics,85,85,1
+2026-10-10,Memphis TN,Accessories,44,44,1
+2026-10-10,Memphis TN,Accessories,26,26,1
+2026-10-10,Memphis TN,Accessories,63,63,1
+2026-10-10,Memphis TN,Accessories,60,60,0
+2026-10-10,Memphis TN,Accessories,120,120,1
+2026-10-10,Memphis TN,Fixtures,108,108,1
+2026-10-10,Memphis TN,Fixtures,32,32,1
+2026-10-10,Memphis TN,Fixtures,20,20,1
+2026-10-10,Memphis TN,Electronics,53,53,1
+2026-10-10,Memphis TN,Electronics,81,6,1
+2026-10-10,Memphis TN,Electronics,11,11,1
+2026-10-10,Memphis TN,Spare Parts,20,20,1
+2026-10-10,Memphis TN,Fixtures,31,31,1
+2026-10-10,Memphis TN,Accessories,58,58,1
+2026-10-10,Memphis TN,Accessories,84,84,1
+2026-10-10,Memphis TN,Electronics,70,70,1
+2026-10-10,Memphis TN,Electronics,105,105,1
+2026-10-10,Memphis TN,Fixtures,104,104,1
+2026-10-10,Memphis TN,Fixtures,50,50,1
+2026-10-10,Memphis TN,Electronics,75,75,1
+2026-10-10,Memphis TN,Spare Parts,47,47,1
+2026-10-10,Memphis TN,Electronics,19,19,1
+2026-10-10,Memphis TN,Fixtures,16,16,1
+2026-10-10,Memphis TN,Electronics,120,120,1
+2026-10-10,Memphis TN,Accessories,38,38,1
+2026-10-10,Memphis TN,Fixtures,116,116,1
+2026-10-10,Memphis TN,Accessories,59,59,1
+2026-10-10,Indianapolis IN,Electronics,6,6,1
+2026-10-10,Indianapolis IN,Fixtures,47,47,1
+2026-10-10,Indianapolis IN,Accessories,117,117,1
+2026-10-10,Indianapolis IN,Accessories,28,28,1
+2026-10-10,Indianapolis IN,Spare Parts,39,39,1
+2026-10-10,Indianapolis IN,Spare Parts,107,107,1
+2026-10-10,Indianapolis IN,Fixtures,19,19,1
+2026-10-10,Indianapolis IN,Fixtures,18,18,1
+2026-10-10,Indianapolis IN,Spare Parts,28,28,1
+2026-10-10,Indianapolis IN,Electronics,115,115,1
+2026-10-10,Indianapolis IN,Fixtures,66,66,1
+2026-10-10,Indianapolis IN,Spare Parts,61,61,1
+2026-10-10,Indianapolis IN,Accessories,6,6,1
+2026-10-10,Indianapolis IN,Fixtures,90,90,1
+2026-10-10,Indianapolis IN,Electronics,60,60,1
+2026-10-10,Indianapolis IN,Accessories,89,89,1
+2026-10-10,Indianapolis IN,Electronics,6,6,1
+2026-10-10,Indianapolis IN,Spare Parts,114,114,1
+2026-10-10,Indianapolis IN,Spare Parts,46,46,0
+2026-10-10,Indianapolis IN,Electronics,69,69,1
+2026-10-10,Indianapolis IN,Spare Parts,109,109,1
+2026-10-10,Indianapolis IN,Spare Parts,16,16,1
+2026-10-10,Indianapolis IN,Electronics,68,68,1
+2026-10-10,Indianapolis IN,Spare Parts,57,57,1
+2026-10-10,Indianapolis IN,Electronics,106,106,1
+2026-10-10,Indianapolis IN,Accessories,118,118,1
+2026-10-10,Indianapolis IN,Spare Parts,48,48,1
+2026-10-10,Indianapolis IN,Fixtures,113,113,1
+2026-10-10,Indianapolis IN,Spare Parts,96,96,1
+2026-10-10,Indianapolis IN,Electronics,17,17,1
+2026-10-11,Louisville KY,Accessories,111,111,1
+2026-10-11,Louisville KY,Accessories,94,94,1
+2026-10-11,Louisville KY,Spare Parts,22,22,1
+2026-10-11,Louisville KY,Spare Parts,18,18,1
+2026-10-11,Louisville KY,Electronics,114,114,1
+2026-10-11,Louisville KY,Fixtures,96,96,1
+2026-10-11,Louisville KY,Electronics,86,86,1
+2026-10-11,Louisville KY,Spare Parts,63,63,0
+2026-10-11,Louisville KY,Fixtures,68,68,1
+2026-10-11,Louisville KY,Spare Parts,112,112,1
+2026-10-11,Louisville KY,Fixtures,93,93,1
+2026-10-11,Louisville KY,Fixtures,18,18,1
+2026-10-11,Louisville KY,Accessories,69,69,1
+2026-10-11,Louisville KY,Fixtures,40,40,1
+2026-10-11,Louisville KY,Accessories,62,62,1
+2026-10-11,Louisville KY,Accessories,112,112,1
+2026-10-11,Louisville KY,Fixtures,30,30,1
+2026-10-11,Louisville KY,Accessories,91,91,1
+2026-10-11,Louisville KY,Fixtures,69,69,1
+2026-10-11,Louisville KY,Electronics,102,102,1
+2026-10-11,Louisville KY,Spare Parts,91,91,1
+2026-10-11,Louisville KY,Accessories,117,117,1
+2026-10-11,Louisville KY,Electronics,8,8,1
+2026-10-11,Memphis TN,Fixtures,39,39,1
+2026-10-11,Memphis TN,Accessories,92,92,1
+2026-10-11,Memphis TN,Accessories,31,31,1
+2026-10-11,Memphis TN,Spare Parts,18,18,1
+2026-10-11,Memphis TN,Fixtures,100,100,1
+2026-10-11,Memphis TN,Accessories,93,93,1
+2026-10-11,Memphis TN,Spare Parts,58,21,1
+2026-10-11,Memphis TN,Electronics,6,6,1
+2026-10-11,Memphis TN,Spare Parts,111,111,1
+2026-10-11,Memphis TN,Accessories,101,101,1
+2026-10-11,Memphis TN,Fixtures,104,104,1
+2026-10-11,Memphis TN,Spare Parts,27,1,1
+2026-10-11,Memphis TN,Fixtures,99,99,1
+2026-10-11,Memphis TN,Spare Parts,40,40,1
+2026-10-11,Memphis TN,Accessories,5,5,1
+2026-10-11,Memphis TN,Fixtures,10,10,1
+2026-10-11,Memphis TN,Electronics,104,104,1
+2026-10-11,Memphis TN,Accessories,67,67,1
+2026-10-11,Indianapolis IN,Accessories,72,72,1
+2026-10-11,Indianapolis IN,Electronics,105,105,1
+2026-10-11,Indianapolis IN,Spare Parts,16,16,1
+2026-10-11,Indianapolis IN,Accessories,47,47,1
+2026-10-11,Indianapolis IN,Spare Parts,76,76,0
+2026-10-11,Indianapolis IN,Electronics,19,19,1
+2026-10-11,Indianapolis IN,Fixtures,10,10,1
+2026-10-11,Indianapolis IN,Electronics,54,54,1
+2026-10-11,Indianapolis IN,Electronics,71,71,1
+2026-10-11,Indianapolis IN,Spare Parts,67,67,1
+2026-10-11,Indianapolis IN,Fixtures,46,46,1
+2026-10-11,Indianapolis IN,Fixtures,103,103,1
+2026-10-11,Indianapolis IN,Electronics,31,31,1
+2026-10-11,Indianapolis IN,Spare Parts,111,111,1
+2026-10-11,Indianapolis IN,Spare Parts,87,87,1
+2026-10-11,Indianapolis IN,Fixtures,8,8,1
+2026-10-11,Indianapolis IN,Electronics,14,14,1
+2026-10-11,Indianapolis IN,Electronics,78,78,1
+2026-10-11,Indianapolis IN,Spare Parts,54,54,1
+2026-10-12,Louisville KY,Electronics,54,54,1
+2026-10-12,Louisville KY,Electronics,101,101,1
+2026-10-12,Louisville KY,Electronics,50,50,1
+2026-10-12,Louisville KY,Accessories,82,82,1
+2026-10-12,Louisville KY,Spare Parts,53,53,1
+2026-10-12,Louisville KY,Spare Parts,25,25,1
+2026-10-12,Louisville KY,Spare Parts,106,106,1
+2026-10-12,Louisville KY,Fixtures,43,43,1
+2026-10-12,Louisville KY,Accessories,6,6,1
+2026-10-12,Louisville KY,Electronics,10,10,1
+2026-10-12,Louisville KY,Electronics,44,44,1
+2026-10-12,Louisville KY,Accessories,32,32,1
+2026-10-12,Louisville KY,Fixtures,25,25,1
+2026-10-12,Louisville KY,Accessories,29,29,1
+2026-10-12,Louisville KY,Electronics,113,113,0
+2026-10-12,Louisville KY,Spare Parts,87,87,1
+2026-10-12,Louisville KY,Electronics,37,37,1
+2026-10-12,Louisville KY,Spare Parts,47,47,1
+2026-10-12,Louisville KY,Fixtures,17,17,1
+2026-10-12,Louisville KY,Fixtures,45,45,1
+2026-10-12,Louisville KY,Accessories,93,93,1
+2026-10-12,Louisville KY,Accessories,108,108,1
+2026-10-12,Louisville KY,Electronics,45,45,1
+2026-10-12,Memphis TN,Spare Parts,40,40,1
+2026-10-12,Memphis TN,Accessories,117,117,1
+2026-10-12,Memphis TN,Accessories,67,67,1
+2026-10-12,Memphis TN,Electronics,112,112,1
+2026-10-12,Memphis TN,Fixtures,38,38,1
+2026-10-12,Memphis TN,Electronics,119,119,1
+2026-10-12,Memphis TN,Electronics,109,109,1
+2026-10-12,Memphis TN,Fixtures,9,9,1
+2026-10-12,Memphis TN,Spare Parts,88,88,1
+2026-10-12,Memphis TN,Fixtures,119,119,1
+2026-10-12,Memphis TN,Accessories,22,22,1
+2026-10-12,Memphis TN,Spare Parts,51,51,1
+2026-10-12,Memphis TN,Fixtures,101,101,1
+2026-10-12,Memphis TN,Fixtures,77,9,1
+2026-10-12,Memphis TN,Spare Parts,50,50,1
+2026-10-12,Memphis TN,Fixtures,13,13,1
+2026-10-12,Memphis TN,Fixtures,71,71,1
+2026-10-12,Memphis TN,Spare Parts,63,63,1
+2026-10-12,Memphis TN,Accessories,18,18,1
+2026-10-12,Memphis TN,Accessories,111,111,1
+2026-10-12,Memphis TN,Fixtures,53,53,1
+2026-10-12,Memphis TN,Electronics,71,71,0
+2026-10-12,Memphis TN,Fixtures,71,71,1
+2026-10-12,Memphis TN,Accessories,67,67,1
+2026-10-12,Memphis TN,Electronics,69,69,1
+2026-10-12,Memphis TN,Fixtures,14,14,1
+2026-10-12,Memphis TN,Fixtures,28,28,1
+2026-10-12,Memphis TN,Electronics,89,89,1
+2026-10-12,Memphis TN,Electronics,66,66,1
+2026-10-12,Indianapolis IN,Fixtures,87,87,1
+2026-10-12,Indianapolis IN,Electronics,21,21,1
+2026-10-12,Indianapolis IN,Electronics,119,119,1
+2026-10-12,Indianapolis IN,Accessories,28,28,1
+2026-10-12,Indianapolis IN,Electronics,117,117,1
+2026-10-12,Indianapolis IN,Accessories,15,15,1
+2026-10-12,Indianapolis IN,Spare Parts,116,116,1
+2026-10-12,Indianapolis IN,Spare Parts,81,81,1
+2026-10-12,Indianapolis IN,Fixtures,84,84,1
+2026-10-12,Indianapolis IN,Accessories,63,63,1
+2026-10-12,Indianapolis IN,Spare Parts,54,54,1
+2026-10-12,Indianapolis IN,Spare Parts,110,110,1
+2026-10-12,Indianapolis IN,Spare Parts,120,120,1
+2026-10-12,Indianapolis IN,Electronics,16,16,1
+2026-10-12,Indianapolis IN,Electronics,119,119,1
+2026-10-12,Indianapolis IN,Spare Parts,71,71,1
+2026-10-12,Indianapolis IN,Spare Parts,34,15,1
+2026-10-12,Indianapolis IN,Spare Parts,49,49,1
+2026-10-12,Indianapolis IN,Electronics,59,59,1
+2026-10-12,Indianapolis IN,Fixtures,114,114,1
+2026-10-12,Indianapolis IN,Spare Parts,37,37,1
+2026-10-12,Indianapolis IN,Electronics,78,78,1
+2026-10-12,Indianapolis IN,Spare Parts,88,88,1
+2026-10-12,Indianapolis IN,Spare Parts,51,51,1
+2026-10-12,Indianapolis IN,Accessories,38,38,1
+2026-10-12,Indianapolis IN,Accessories,83,83,1
+2026-10-12,Indianapolis IN,Fixtures,57,57,1
+2026-10-13,Louisville KY,Accessories,76,76,1
+2026-10-13,Louisville KY,Accessories,78,78,1
+2026-10-13,Louisville KY,Fixtures,114,114,1
+2026-10-13,Louisville KY,Fixtures,62,62,1
+2026-10-13,Louisville KY,Electronics,32,32,1
+2026-10-13,Louisville KY,Electronics,25,25,1
+2026-10-13,Louisville KY,Electronics,110,110,1
+2026-10-13,Louisville KY,Spare Parts,16,16,1
+2026-10-13,Louisville KY,Electronics,82,82,1
+2026-10-13,Louisville KY,Spare Parts,83,83,1
+2026-10-13,Louisville KY,Electronics,104,104,1
+2026-10-13,Louisville KY,Spare Parts,6,6,1
+2026-10-13,Louisville KY,Accessories,29,29,1
+2026-10-13,Louisville KY,Fixtures,83,83,1
+2026-10-13,Louisville KY,Fixtures,88,88,1
+2026-10-13,Louisville KY,Accessories,104,104,1
+2026-10-13,Louisville KY,Spare Parts,80,80,1
+2026-10-13,Louisville KY,Electronics,16,16,1
+2026-10-13,Louisville KY,Accessories,49,49,1
+2026-10-13,Louisville KY,Fixtures,63,63,1
+2026-10-13,Memphis TN,Fixtures,57,57,1
+2026-10-13,Memphis TN,Accessories,48,16,0
+2026-10-13,Memphis TN,Accessories,93,93,1
+2026-10-13,Memphis TN,Spare Parts,103,103,1
+2026-10-13,Memphis TN,Spare Parts,92,92,1
+2026-10-13,Memphis TN,Electronics,66,66,1
+2026-10-13,Memphis TN,Fixtures,91,91,1
+2026-10-13,Memphis TN,Spare Parts,50,50,1
+2026-10-13,Memphis TN,Accessories,36,36,1
+2026-10-13,Memphis TN,Accessories,14,14,1
+2026-10-13,Memphis TN,Accessories,50,50,1
+2026-10-13,Memphis TN,Fixtures,100,100,1
+2026-10-13,Memphis TN,Spare Parts,99,99,1
+2026-10-13,Memphis TN,Accessories,31,31,1
+2026-10-13,Memphis TN,Accessories,24,24,1
+2026-10-13,Memphis TN,Electronics,91,31,1
+2026-10-13,Memphis TN,Electronics,113,113,1
+2026-10-13,Memphis TN,Spare Parts,119,57,1
+2026-10-13,Memphis TN,Accessories,67,67,1
+2026-10-13,Memphis TN,Accessories,55,55,1
+2026-10-13,Memphis TN,Electronics,72,72,1
+2026-10-13,Memphis TN,Electronics,69,69,1
+2026-10-13,Indianapolis IN,Fixtures,63,29,1
+2026-10-13,Indianapolis IN,Electronics,6,6,1
+2026-10-13,Indianapolis IN,Electronics,46,46,1
+2026-10-13,Indianapolis IN,Fixtures,75,75,1
+2026-10-13,Indianapolis IN,Accessories,51,51,1
+2026-10-13,Indianapolis IN,Spare Parts,94,94,1
+2026-10-13,Indianapolis IN,Spare Parts,40,40,1
+2026-10-13,Indianapolis IN,Fixtures,109,109,1
+2026-10-13,Indianapolis IN,Fixtures,76,76,1
+2026-10-13,Indianapolis IN,Fixtures,107,107,1
+2026-10-13,Indianapolis IN,Electronics,27,27,1
+2026-10-13,Indianapolis IN,Accessories,105,105,1
+2026-10-13,Indianapolis IN,Electronics,55,55,1
+2026-10-13,Indianapolis IN,Fixtures,109,109,1
+2026-10-13,Indianapolis IN,Electronics,62,62,1
+2026-10-13,Indianapolis IN,Accessories,76,76,1
+2026-10-13,Indianapolis IN,Accessories,7,7,1
+2026-10-13,Indianapolis IN,Fixtures,78,78,1
+2026-10-13,Indianapolis IN,Fixtures,104,104,1
+2026-10-13,Indianapolis IN,Spare Parts,104,104,1
+2026-10-13,Indianapolis IN,Spare Parts,83,83,1
+2026-10-13,Indianapolis IN,Fixtures,116,116,1
+2026-10-13,Indianapolis IN,Accessories,58,58,1
+2026-10-13,Indianapolis IN,Electronics,15,15,1
+2026-10-13,Indianapolis IN,Accessories,88,88,1
+2026-10-13,Indianapolis IN,Spare Parts,39,39,1
+2026-10-13,Indianapolis IN,Accessories,100,100,0
+2026-10-13,Indianapolis IN,Spare Parts,26,26,1
+2026-10-13,Indianapolis IN,Fixtures,89,89,1
+2026-10-13,Indianapolis IN,Electronics,31,31,1
+2026-10-14,Louisville KY,Spare Parts,75,75,1
+2026-10-14,Louisville KY,Electronics,18,18,1
+2026-10-14,Louisville KY,Spare Parts,44,44,1
+2026-10-14,Louisville KY,Spare Parts,85,85,1
+2026-10-14,Louisville KY,Fixtures,8,8,1
+2026-10-14,Louisville KY,Accessories,115,115,1
+2026-10-14,Louisville KY,Accessories,75,75,1
+2026-10-14,Louisville KY,Fixtures,80,80,1
+2026-10-14,Louisville KY,Spare Parts,72,72,1
+2026-10-14,Louisville KY,Accessories,66,66,1
+2026-10-14,Louisville KY,Spare Parts,44,44,1
+2026-10-14,Louisville KY,Accessories,6,6,1
+2026-10-14,Louisville KY,Fixtures,49,49,1
+2026-10-14,Louisville KY,Spare Parts,101,101,1
+2026-10-14,Louisville KY,Spare Parts,107,107,1
+2026-10-14,Louisville KY,Electronics,75,75,1
+2026-10-14,Louisville KY,Spare Parts,55,55,1
+2026-10-14,Louisville KY,Spare Parts,111,111,1
+2026-10-14,Louisville KY,Spare Parts,85,85,1
+2026-10-14,Memphis TN,Accessories,41,41,1
+2026-10-14,Memphis TN,Accessories,57,57,1
+2026-10-14,Memphis TN,Fixtures,42,42,1
+2026-10-14,Memphis TN,Spare Parts,39,39,1
+2026-10-14,Memphis TN,Accessories,7,7,0
+2026-10-14,Memphis TN,Electronics,28,4,1
+2026-10-14,Memphis TN,Spare Parts,98,98,1
+2026-10-14,Memphis TN,Electronics,68,68,1
+2026-10-14,Memphis TN,Spare Parts,52,52,1
+2026-10-14,Memphis TN,Accessories,15,15,0
+2026-10-14,Memphis TN,Electronics,39,39,1
+2026-10-14,Memphis TN,Spare Parts,28,28,1
+2026-10-14,Memphis TN,Spare Parts,111,111,0
+2026-10-14,Memphis TN,Fixtures,54,54,1
+2026-10-14,Memphis TN,Electronics,30,30,1
+2026-10-14,Memphis TN,Fixtures,65,65,0
+2026-10-14,Memphis TN,Accessories,25,25,1
+2026-10-14,Memphis TN,Electronics,37,37,1
+2026-10-14,Memphis TN,Accessories,118,118,1
+2026-10-14,Memphis TN,Electronics,35,35,1
+2026-10-14,Memphis TN,Fixtures,106,106,1
+2026-10-14,Memphis TN,Fixtures,6,3,1
+2026-10-14,Memphis TN,Fixtures,52,52,1
+2026-10-14,Memphis TN,Spare Parts,16,16,1
+2026-10-14,Memphis TN,Electronics,12,12,1
+2026-10-14,Memphis TN,Electronics,21,21,1
+2026-10-14,Memphis TN,Accessories,108,108,1
+2026-10-14,Indianapolis IN,Spare Parts,50,50,1
+2026-10-14,Indianapolis IN,Electronics,67,67,1
+2026-10-14,Indianapolis IN,Spare Parts,29,29,1
+2026-10-14,Indianapolis IN,Accessories,98,98,1
+2026-10-14,Indianapolis IN,Fixtures,13,13,1
+2026-10-14,Indianapolis IN,Accessories,74,74,1
+2026-10-14,Indianapolis IN,Spare Parts,98,98,1
+2026-10-14,Indianapolis IN,Accessories,104,104,1
+2026-10-14,Indianapolis IN,Electronics,89,24,1
+2026-10-14,Indianapolis IN,Spare Parts,103,103,1
+2026-10-14,Indianapolis IN,Accessories,57,57,1
+2026-10-14,Indianapolis IN,Electronics,10,10,1
+2026-10-14,Indianapolis IN,Electronics,30,30,1
+2026-10-14,Indianapolis IN,Electronics,78,78,1
+2026-10-14,Indianapolis IN,Spare Parts,72,72,1
+2026-10-14,Indianapolis IN,Electronics,51,51,1
+2026-10-14,Indianapolis IN,Electronics,31,31,1
+2026-10-14,Indianapolis IN,Electronics,64,64,1
+2026-10-15,Louisville KY,Spare Parts,110,110,1
+2026-10-15,Louisville KY,Accessories,72,72,1
+2026-10-15,Louisville KY,Accessories,14,14,1
+2026-10-15,Louisville KY,Electronics,17,17,1
+2026-10-15,Louisville KY,Fixtures,29,29,1
+2026-10-15,Louisville KY,Fixtures,76,76,1
+2026-10-15,Louisville KY,Electronics,103,103,1
+2026-10-15,Louisville KY,Spare Parts,94,94,1
+2026-10-15,Louisville KY,Fixtures,106,106,1
+2026-10-15,Louisville KY,Accessories,89,89,0
+2026-10-15,Louisville KY,Spare Parts,50,50,1
+2026-10-15,Louisville KY,Accessories,113,113,1
+2026-10-15,Louisville KY,Spare Parts,110,110,1
+2026-10-15,Louisville KY,Fixtures,53,53,1
+2026-10-15,Louisville KY,Accessories,51,51,1
+2026-10-15,Louisville KY,Spare Parts,5,5,0
+2026-10-15,Louisville KY,Electronics,71,71,1
+2026-10-15,Louisville KY,Electronics,43,43,1
+2026-10-15,Louisville KY,Accessories,7,7,1
+2026-10-15,Louisville KY,Accessories,75,75,1
+2026-10-15,Louisville KY,Fixtures,17,17,1
+2026-10-15,Louisville KY,Fixtures,38,38,1
+2026-10-15,Louisville KY,Fixtures,37,37,1
+2026-10-15,Louisville KY,Spare Parts,77,77,1
+2026-10-15,Louisville KY,Accessories,106,106,1
+2026-10-15,Louisville KY,Electronics,81,81,1
+2026-10-15,Memphis TN,Spare Parts,15,15,0
+2026-10-15,Memphis TN,Accessories,49,49,1
+2026-10-15,Memphis TN,Electronics,116,116,1
+2026-10-15,Memphis TN,Electronics,86,86,1
+2026-10-15,Memphis TN,Accessories,72,72,1
+2026-10-15,Memphis TN,Fixtures,46,46,1
+2026-10-15,Memphis TN,Electronics,91,91,1
+2026-10-15,Memphis TN,Spare Parts,101,101,1
+2026-10-15,Memphis TN,Fixtures,60,60,1
+2026-10-15,Memphis TN,Fixtures,48,48,1
+2026-10-15,Memphis TN,Electronics,75,75,1
+2026-10-15,Memphis TN,Spare Parts,104,104,1
+2026-10-15,Memphis TN,Spare Parts,76,76,1
+2026-10-15,Memphis TN,Fixtures,76,76,1
+2026-10-15,Memphis TN,Fixtures,36,36,1
+2026-10-15,Memphis TN,Accessories,92,92,1
+2026-10-15,Memphis TN,Spare Parts,59,59,1
+2026-10-15,Memphis TN,Accessories,81,81,1
+2026-10-15,Memphis TN,Fixtures,49,49,0
+2026-10-15,Memphis TN,Spare Parts,84,84,1
+2026-10-15,Memphis TN,Fixtures,30,30,1
+2026-10-15,Memphis TN,Electronics,19,19,1
+2026-10-15,Memphis TN,Fixtures,116,116,1
+2026-10-15,Memphis TN,Accessories,93,93,1
+2026-10-15,Memphis TN,Spare Parts,7,7,1
+2026-10-15,Memphis TN,Fixtures,31,31,1
+2026-10-15,Memphis TN,Spare Parts,84,84,1
+2026-10-15,Memphis TN,Electronics,53,53,1
+2026-10-15,Memphis TN,Electronics,37,37,1
+2026-10-15,Memphis TN,Accessories,11,11,0
+2026-10-15,Indianapolis IN,Spare Parts,89,89,1
+2026-10-15,Indianapolis IN,Accessories,115,115,1
+2026-10-15,Indianapolis IN,Spare Parts,34,16,0
+2026-10-15,Indianapolis IN,Electronics,120,120,1
+2026-10-15,Indianapolis IN,Electronics,28,28,0
+2026-10-15,Indianapolis IN,Electronics,10,10,1
+2026-10-15,Indianapolis IN,Accessories,67,67,1
+2026-10-15,Indianapolis IN,Accessories,92,92,1
+2026-10-15,Indianapolis IN,Fixtures,69,69,1
+2026-10-15,Indianapolis IN,Accessories,117,117,0
+2026-10-15,Indianapolis IN,Electronics,76,76,1
+2026-10-15,Indianapolis IN,Accessories,119,119,1
+2026-10-15,Indianapolis IN,Spare Parts,71,14,1
+2026-10-15,Indianapolis IN,Fixtures,59,29,1
+2026-10-15,Indianapolis IN,Spare Parts,74,74,1
+2026-10-15,Indianapolis IN,Fixtures,115,115,1
+2026-10-15,Indianapolis IN,Fixtures,60,24,1
+2026-10-15,Indianapolis IN,Fixtures,45,45,1
+2026-10-15,Indianapolis IN,Electronics,28,28,1
+2026-10-16,Louisville KY,Electronics,102,102,1
+2026-10-16,Louisville KY,Spare Parts,43,43,0
+2026-10-16,Louisville KY,Accessories,24,24,1
+2026-10-16,Louisville KY,Fixtures,8,8,1
+2026-10-16,Louisville KY,Accessories,82,82,1
+2026-10-16,Louisville KY,Fixtures,34,34,1
+2026-10-16,Louisville KY,Spare Parts,22,22,1
+2026-10-16,Louisville KY,Accessories,28,28,1
+2026-10-16,Louisville KY,Fixtures,25,25,1
+2026-10-16,Louisville KY,Electronics,39,39,1
+2026-10-16,Louisville KY,Fixtures,101,101,1
+2026-10-16,Louisville KY,Spare Parts,115,115,1
+2026-10-16,Louisville KY,Spare Parts,118,118,1
+2026-10-16,Louisville KY,Electronics,82,82,1
+2026-10-16,Louisville KY,Accessories,55,55,1
+2026-10-16,Louisville KY,Electronics,71,71,1
+2026-10-16,Louisville KY,Electronics,117,33,1
+2026-10-16,Louisville KY,Electronics,76,76,1
+2026-10-16,Louisville KY,Electronics,29,29,1
+2026-10-16,Louisville KY,Accessories,104,104,1
+2026-10-16,Louisville KY,Spare Parts,42,42,1
+2026-10-16,Louisville KY,Fixtures,64,64,1
+2026-10-16,Louisville KY,Electronics,28,28,1
+2026-10-16,Louisville KY,Fixtures,55,55,1
+2026-10-16,Louisville KY,Fixtures,63,63,1
+2026-10-16,Louisville KY,Fixtures,117,117,1
+2026-10-16,Louisville KY,Fixtures,96,96,1
+2026-10-16,Louisville KY,Spare Parts,86,86,1
+2026-10-16,Louisville KY,Spare Parts,98,98,1
+2026-10-16,Memphis TN,Spare Parts,75,75,1
+2026-10-16,Memphis TN,Accessories,77,77,1
+2026-10-16,Memphis TN,Fixtures,116,116,1
+2026-10-16,Memphis TN,Electronics,58,58,1
+2026-10-16,Memphis TN,Spare Parts,41,41,1
+2026-10-16,Memphis TN,Fixtures,30,30,1
+2026-10-16,Memphis TN,Electronics,63,63,1
+2026-10-16,Memphis TN,Electronics,82,82,1
+2026-10-16,Memphis TN,Spare Parts,63,63,1
+2026-10-16,Memphis TN,Electronics,36,36,1
+2026-10-16,Memphis TN,Fixtures,11,11,1
+2026-10-16,Memphis TN,Accessories,9,9,1
+2026-10-16,Memphis TN,Accessories,47,47,1
+2026-10-16,Memphis TN,Spare Parts,27,27,1
+2026-10-16,Memphis TN,Fixtures,63,63,1
+2026-10-16,Memphis TN,Electronics,16,16,1
+2026-10-16,Memphis TN,Spare Parts,109,109,1
+2026-10-16,Memphis TN,Electronics,42,42,1
+2026-10-16,Memphis TN,Accessories,47,47,1
+2026-10-16,Memphis TN,Fixtures,83,83,1
+2026-10-16,Indianapolis IN,Electronics,66,66,1
+2026-10-16,Indianapolis IN,Accessories,59,59,1
+2026-10-16,Indianapolis IN,Accessories,21,21,1
+2026-10-16,Indianapolis IN,Spare Parts,68,68,1
+2026-10-16,Indianapolis IN,Fixtures,95,95,1
+2026-10-16,Indianapolis IN,Electronics,8,8,1
+2026-10-16,Indianapolis IN,Fixtures,107,107,1
+2026-10-16,Indianapolis IN,Electronics,47,47,1
+2026-10-16,Indianapolis IN,Fixtures,6,6,1
+2026-10-16,Indianapolis IN,Accessories,106,106,1
+2026-10-16,Indianapolis IN,Accessories,103,103,1
+2026-10-16,Indianapolis IN,Accessories,55,55,1
+2026-10-16,Indianapolis IN,Electronics,111,111,1
+2026-10-16,Indianapolis IN,Accessories,91,91,1
+2026-10-16,Indianapolis IN,Electronics,87,87,1
+2026-10-16,Indianapolis IN,Spare Parts,119,119,1
+2026-10-16,Indianapolis IN,Spare Parts,105,105,0
+2026-10-16,Indianapolis IN,Electronics,111,111,1
+2026-10-16,Indianapolis IN,Accessories,76,76,1
+2026-10-16,Indianapolis IN,Accessories,107,107,1
+2026-10-16,Indianapolis IN,Electronics,24,24,1
+2026-10-16,Indianapolis IN,Spare Parts,85,85,1
+2026-10-16,Indianapolis IN,Spare Parts,28,28,1
+2026-10-16,Indianapolis IN,Accessories,95,95,1
+2026-10-16,Indianapolis IN,Accessories,57,57,1
+2026-10-16,Indianapolis IN,Accessories,62,62,1
+2026-10-16,Indianapolis IN,Accessories,27,27,1
+2026-10-16,Indianapolis IN,Fixtures,16,16,1
+2026-10-17,Louisville KY,Fixtures,29,29,1
+2026-10-17,Louisville KY,Accessories,104,104,1
+2026-10-17,Louisville KY,Electronics,110,110,1
+2026-10-17,Louisville KY,Fixtures,31,31,1
+2026-10-17,Louisville KY,Electronics,5,5,1
+2026-10-17,Louisville KY,Electronics,47,47,1
+2026-10-17,Louisville KY,Accessories,7,7,1
+2026-10-17,Louisville KY,Fixtures,46,46,1
+2026-10-17,Louisville KY,Accessories,103,103,1
+2026-10-17,Louisville KY,Fixtures,25,25,1
+2026-10-17,Louisville KY,Electronics,31,31,1
+2026-10-17,Louisville KY,Accessories,23,23,1
+2026-10-17,Louisville KY,Fixtures,26,26,1
+2026-10-17,Louisville KY,Accessories,74,74,1
+2026-10-17,Louisville KY,Spare Parts,120,120,1
+2026-10-17,Louisville KY,Electronics,16,16,1
+2026-10-17,Louisville KY,Spare Parts,83,83,1
+2026-10-17,Louisville KY,Fixtures,96,96,1
+2026-10-17,Louisville KY,Electronics,101,101,1
+2026-10-17,Louisville KY,Electronics,109,109,1
+2026-10-17,Louisville KY,Electronics,63,63,1
+2026-10-17,Louisville KY,Spare Parts,65,65,1
+2026-10-17,Louisville KY,Accessories,51,51,1
+2026-10-17,Louisville KY,Accessories,105,105,1
+2026-10-17,Louisville KY,Spare Parts,8,8,1
+2026-10-17,Memphis TN,Spare Parts,113,113,1
+2026-10-17,Memphis TN,Fixtures,70,70,1
+2026-10-17,Memphis TN,Electronics,46,46,1
+2026-10-17,Memphis TN,Accessories,73,73,1
+2026-10-17,Memphis TN,Fixtures,84,84,1
+2026-10-17,Memphis TN,Spare Parts,54,54,1
+2026-10-17,Memphis TN,Spare Parts,105,36,1
+2026-10-17,Memphis TN,Fixtures,27,27,1
+2026-10-17,Memphis TN,Spare Parts,19,19,1
+2026-10-17,Memphis TN,Electronics,110,110,1
+2026-10-17,Memphis TN,Spare Parts,13,13,1
+2026-10-17,Memphis TN,Spare Parts,46,46,1
+2026-10-17,Memphis TN,Electronics,32,32,1
+2026-10-17,Memphis TN,Electronics,101,101,1
+2026-10-17,Memphis TN,Accessories,54,54,1
+2026-10-17,Memphis TN,Fixtures,92,92,1
+2026-10-17,Memphis TN,Accessories,60,60,1
+2026-10-17,Memphis TN,Electronics,79,79,0
+2026-10-17,Memphis TN,Spare Parts,113,113,1
+2026-10-17,Memphis TN,Accessories,120,120,1
+2026-10-17,Memphis TN,Accessories,19,19,1
+2026-10-17,Memphis TN,Fixtures,60,60,1
+2026-10-17,Memphis TN,Accessories,96,96,1
+2026-10-17,Memphis TN,Fixtures,89,89,1
+2026-10-17,Memphis TN,Spare Parts,112,53,1
+2026-10-17,Indianapolis IN,Fixtures,22,22,1
+2026-10-17,Indianapolis IN,Fixtures,97,97,1
+2026-10-17,Indianapolis IN,Fixtures,15,15,1
+2026-10-17,Indianapolis IN,Spare Parts,119,119,1
+2026-10-17,Indianapolis IN,Spare Parts,84,84,1
+2026-10-17,Indianapolis IN,Spare Parts,54,54,1
+2026-10-17,Indianapolis IN,Electronics,78,78,1
+2026-10-17,Indianapolis IN,Accessories,57,57,1
+2026-10-17,Indianapolis IN,Electronics,9,9,1
+2026-10-17,Indianapolis IN,Electronics,79,79,1
+2026-10-17,Indianapolis IN,Fixtures,98,98,0
+2026-10-17,Indianapolis IN,Accessories,64,64,1
+2026-10-17,Indianapolis IN,Electronics,36,36,1
+2026-10-17,Indianapolis IN,Electronics,92,92,1
+2026-10-17,Indianapolis IN,Accessories,83,83,1
+2026-10-17,Indianapolis IN,Electronics,65,65,1
+2026-10-17,Indianapolis IN,Accessories,58,58,0
+2026-10-17,Indianapolis IN,Accessories,42,42,1
+2026-10-17,Indianapolis IN,Accessories,98,98,1
+2026-10-17,Indianapolis IN,Spare Parts,79,79,1
+2026-10-17,Indianapolis IN,Accessories,108,108,1
+2026-10-17,Indianapolis IN,Spare Parts,15,15,1
+2026-10-18,Louisville KY,Accessories,37,37,1
+2026-10-18,Louisville KY,Accessories,6,6,1
+2026-10-18,Louisville KY,Fixtures,89,89,1
+2026-10-18,Louisville KY,Accessories,105,105,1
+2026-10-18,Louisville KY,Electronics,48,48,1
+2026-10-18,Louisville KY,Fixtures,112,112,0
+2026-10-18,Louisville KY,Spare Parts,35,35,1
+2026-10-18,Louisville KY,Fixtures,31,31,1
+2026-10-18,Louisville KY,Electronics,87,87,1
+2026-10-18,Louisville KY,Electronics,26,26,1
+2026-10-18,Louisville KY,Spare Parts,100,34,1
+2026-10-18,Louisville KY,Spare Parts,65,65,1
+2026-10-18,Louisville KY,Spare Parts,6,6,1
+2026-10-18,Louisville KY,Spare Parts,91,91,1
+2026-10-18,Louisville KY,Electronics,17,17,1
+2026-10-18,Louisville KY,Spare Parts,83,83,1
+2026-10-18,Louisville KY,Accessories,39,39,1
+2026-10-18,Louisville KY,Spare Parts,64,64,1
+2026-10-18,Louisville KY,Fixtures,71,71,1
+2026-10-18,Louisville KY,Fixtures,45,45,1
+2026-10-18,Louisville KY,Electronics,6,6,1
+2026-10-18,Louisville KY,Spare Parts,49,49,1
+2026-10-18,Louisville KY,Fixtures,9,9,1
+2026-10-18,Louisville KY,Fixtures,81,81,1
+2026-10-18,Louisville KY,Electronics,16,16,1
+2026-10-18,Louisville KY,Fixtures,119,119,1
+2026-10-18,Louisville KY,Accessories,64,64,1
+2026-10-18,Louisville KY,Spare Parts,40,40,1
+2026-10-18,Louisville KY,Accessories,37,37,1
+2026-10-18,Louisville KY,Electronics,53,53,0
+2026-10-18,Memphis TN,Accessories,27,27,1
+2026-10-18,Memphis TN,Fixtures,83,83,1
+2026-10-18,Memphis TN,Electronics,23,23,1
+2026-10-18,Memphis TN,Electronics,61,61,1
+2026-10-18,Memphis TN,Electronics,14,14,1
+2026-10-18,Memphis TN,Spare Parts,7,1,1
+2026-10-18,Memphis TN,Electronics,9,9,1
+2026-10-18,Memphis TN,Accessories,120,120,1
+2026-10-18,Memphis TN,Spare Parts,66,66,1
+2026-10-18,Memphis TN,Electronics,74,74,1
+2026-10-18,Memphis TN,Spare Parts,20,20,0
+2026-10-18,Memphis TN,Accessories,47,47,1
+2026-10-18,Memphis TN,Electronics,51,51,0
+2026-10-18,Memphis TN,Electronics,112,112,1
+2026-10-18,Memphis TN,Fixtures,27,27,0
+2026-10-18,Memphis TN,Fixtures,43,43,1
+2026-10-18,Memphis TN,Accessories,67,67,1
+2026-10-18,Memphis TN,Fixtures,22,22,1
+2026-10-18,Memphis TN,Fixtures,67,67,1
+2026-10-18,Memphis TN,Accessories,68,68,1
+2026-10-18,Memphis TN,Spare Parts,7,7,1
+2026-10-18,Memphis TN,Electronics,56,56,1
+2026-10-18,Indianapolis IN,Spare Parts,91,91,1
+2026-10-18,Indianapolis IN,Fixtures,14,14,1
+2026-10-18,Indianapolis IN,Electronics,65,65,1
+2026-10-18,Indianapolis IN,Fixtures,94,94,1
+2026-10-18,Indianapolis IN,Electronics,120,120,1
+2026-10-18,Indianapolis IN,Spare Parts,83,83,1
+2026-10-18,Indianapolis IN,Electronics,19,19,1
+2026-10-18,Indianapolis IN,Fixtures,13,13,1
+2026-10-18,Indianapolis IN,Spare Parts,46,46,1
+2026-10-18,Indianapolis IN,Fixtures,46,46,1
+2026-10-18,Indianapolis IN,Electronics,80,80,1
+2026-10-18,Indianapolis IN,Accessories,23,23,1
+2026-10-18,Indianapolis IN,Accessories,75,75,1
+2026-10-18,Indianapolis IN,Electronics,22,22,1
+2026-10-18,Indianapolis IN,Spare Parts,104,104,1
+2026-10-18,Indianapolis IN,Electronics,5,5,1
+2026-10-18,Indianapolis IN,Accessories,58,58,1
+2026-10-18,Indianapolis IN,Spare Parts,93,93,1
+2026-10-18,Indianapolis IN,Accessories,71,71,1
+2026-10-18,Indianapolis IN,Fixtures,83,83,1
+2026-10-18,Indianapolis IN,Spare Parts,83,40,1
+2026-10-18,Indianapolis IN,Accessories,49,49,1
+2026-10-18,Indianapolis IN,Fixtures,20,1,1
+2026-10-18,Indianapolis IN,Fixtures,64,64,1
+2026-10-18,Indianapolis IN,Accessories,11,11,1
+2026-10-18,Indianapolis IN,Spare Parts,68,68,1
+2026-10-18,Indianapolis IN,Electronics,11,11,1
+2026-10-18,Indianapolis IN,Spare Parts,37,37,1
+2026-10-19,Louisville KY,Spare Parts,10,10,1
+2026-10-19,Louisville KY,Fixtures,25,25,1
+2026-10-19,Louisville KY,Electronics,14,14,1
+2026-10-19,Louisville KY,Accessories,58,58,1
+2026-10-19,Louisville KY,Accessories,34,34,1
+2026-10-19,Louisville KY,Electronics,35,35,1
+2026-10-19,Louisville KY,Spare Parts,119,119,1
+2026-10-19,Louisville KY,Spare Parts,11,11,1
+2026-10-19,Louisville KY,Spare Parts,27,27,1
+2026-10-19,Louisville KY,Fixtures,85,85,1
+2026-10-19,Louisville KY,Accessories,21,21,1
+2026-10-19,Louisville KY,Accessories,22,22,1
+2026-10-19,Louisville KY,Spare Parts,26,26,1
+2026-10-19,Louisville KY,Accessories,82,82,1
+2026-10-19,Louisville KY,Fixtures,78,78,1
+2026-10-19,Louisville KY,Electronics,57,57,1
+2026-10-19,Louisville KY,Fixtures,80,80,1
+2026-10-19,Louisville KY,Electronics,98,98,1
+2026-10-19,Louisville KY,Fixtures,46,46,1
+2026-10-19,Louisville KY,Fixtures,78,78,1
+2026-10-19,Louisville KY,Electronics,10,5,1
+2026-10-19,Louisville KY,Electronics,59,59,1
+2026-10-19,Louisville KY,Electronics,62,62,1
+2026-10-19,Louisville KY,Electronics,93,93,1
+2026-10-19,Louisville KY,Fixtures,50,50,1
+2026-10-19,Louisville KY,Electronics,7,7,1
+2026-10-19,Louisville KY,Spare Parts,114,114,1
+2026-10-19,Louisville KY,Spare Parts,64,64,1
+2026-10-19,Louisville KY,Spare Parts,28,28,1
+2026-10-19,Louisville KY,Spare Parts,95,95,1
+2026-10-19,Memphis TN,Spare Parts,119,119,1
+2026-10-19,Memphis TN,Accessories,59,59,1
+2026-10-19,Memphis TN,Fixtures,105,105,1
+2026-10-19,Memphis TN,Accessories,99,99,1
+2026-10-19,Memphis TN,Accessories,118,118,1
+2026-10-19,Memphis TN,Spare Parts,84,84,1
+2026-10-19,Memphis TN,Electronics,76,76,1
+2026-10-19,Memphis TN,Accessories,35,35,1
+2026-10-19,Memphis TN,Fixtures,101,101,1
+2026-10-19,Memphis TN,Accessories,119,119,1
+2026-10-19,Memphis TN,Accessories,11,11,1
+2026-10-19,Memphis TN,Spare Parts,69,69,1
+2026-10-19,Memphis TN,Accessories,62,62,1
+2026-10-19,Memphis TN,Electronics,29,29,1
+2026-10-19,Memphis TN,Electronics,55,55,1
+2026-10-19,Memphis TN,Electronics,18,18,1
+2026-10-19,Memphis TN,Fixtures,68,68,1
+2026-10-19,Memphis TN,Electronics,42,42,1
+2026-10-19,Memphis TN,Fixtures,65,65,1
+2026-10-19,Indianapolis IN,Electronics,42,42,1
+2026-10-19,Indianapolis IN,Fixtures,111,111,1
+2026-10-19,Indianapolis IN,Spare Parts,79,79,1
+2026-10-19,Indianapolis IN,Accessories,67,67,1
+2026-10-19,Indianapolis IN,Spare Parts,63,63,1
+2026-10-19,Indianapolis IN,Accessories,26,26,1
+2026-10-19,Indianapolis IN,Accessories,41,41,1
+2026-10-19,Indianapolis IN,Accessories,41,41,1
+2026-10-19,Indianapolis IN,Fixtures,96,96,1
+2026-10-19,Indianapolis IN,Fixtures,112,112,1
+2026-10-19,Indianapolis IN,Fixtures,25,25,1
+2026-10-19,Indianapolis IN,Accessories,78,78,1
+2026-10-19,Indianapolis IN,Fixtures,31,31,1
+2026-10-19,Indianapolis IN,Accessories,49,49,1
+2026-10-19,Indianapolis IN,Fixtures,73,73,1
+2026-10-19,Indianapolis IN,Spare Parts,68,68,0
+2026-10-19,Indianapolis IN,Accessories,24,24,1
+2026-10-19,Indianapolis IN,Accessories,87,87,1
+2026-10-19,Indianapolis IN,Accessories,101,36,1
+2026-10-19,Indianapolis IN,Spare Parts,48,48,1
+2026-10-19,Indianapolis IN,Electronics,22,22,1
+2026-10-19,Indianapolis IN,Electronics,56,56,1
+2026-10-19,Indianapolis IN,Accessories,16,16,1
+2026-10-19,Indianapolis IN,Fixtures,79,79,1
+2026-10-19,Indianapolis IN,Accessories,30,30,1
+2026-10-19,Indianapolis IN,Spare Parts,91,91,1
+2026-10-19,Indianapolis IN,Spare Parts,29,29,1
+2026-10-19,Indianapolis IN,Electronics,90,90,1
+2026-10-20,Louisville KY,Accessories,54,54,1
+2026-10-20,Louisville KY,Accessories,44,44,1
+2026-10-20,Louisville KY,Electronics,32,32,1
+2026-10-20,Louisville KY,Spare Parts,107,107,1
+2026-10-20,Louisville KY,Spare Parts,98,98,1
+2026-10-20,Louisville KY,Electronics,23,23,1
+2026-10-20,Louisville KY,Accessories,13,13,1
+2026-10-20,Louisville KY,Spare Parts,16,16,1
+2026-10-20,Louisville KY,Accessories,58,58,1
+2026-10-20,Louisville KY,Fixtures,30,30,1
+2026-10-20,Louisville KY,Spare Parts,10,10,1
+2026-10-20,Louisville KY,Accessories,68,68,1
+2026-10-20,Louisville KY,Electronics,106,106,1
+2026-10-20,Louisville KY,Spare Parts,20,20,1
+2026-10-20,Louisville KY,Spare Parts,27,27,1
+2026-10-20,Louisville KY,Fixtures,8,8,1
+2026-10-20,Louisville KY,Electronics,81,81,1
+2026-10-20,Louisville KY,Spare Parts,116,116,1
+2026-10-20,Louisville KY,Electronics,52,52,1
+2026-10-20,Louisville KY,Accessories,25,25,1
+2026-10-20,Louisville KY,Spare Parts,117,117,1
+2026-10-20,Louisville KY,Electronics,39,39,1
+2026-10-20,Louisville KY,Accessories,11,11,1
+2026-10-20,Louisville KY,Electronics,70,70,1
+2026-10-20,Memphis TN,Electronics,81,81,1
+2026-10-20,Memphis TN,Accessories,110,110,1
+2026-10-20,Memphis TN,Accessories,92,92,1
+2026-10-20,Memphis TN,Accessories,110,110,1
+2026-10-20,Memphis TN,Accessories,52,52,1
+2026-10-20,Memphis TN,Fixtures,18,18,1
+2026-10-20,Memphis TN,Fixtures,106,106,1
+2026-10-20,Memphis TN,Electronics,58,58,1
+2026-10-20,Memphis TN,Fixtures,7,7,1
+2026-10-20,Memphis TN,Accessories,22,22,1
+2026-10-20,Memphis TN,Accessories,27,27,1
+2026-10-20,Memphis TN,Electronics,33,33,1
+2026-10-20,Memphis TN,Fixtures,44,44,1
+2026-10-20,Memphis TN,Electronics,59,59,1
+2026-10-20,Memphis TN,Electronics,7,7,1
+2026-10-20,Memphis TN,Electronics,30,30,1
+2026-10-20,Memphis TN,Electronics,65,65,1
+2026-10-20,Memphis TN,Electronics,43,43,1
+2026-10-20,Memphis TN,Electronics,82,82,1
+2026-10-20,Memphis TN,Fixtures,90,90,1
+2026-10-20,Memphis TN,Accessories,79,79,1
+2026-10-20,Memphis TN,Fixtures,69,69,1
+2026-10-20,Memphis TN,Electronics,72,72,1
+2026-10-20,Memphis TN,Accessories,26,26,1
+2026-10-20,Memphis TN,Electronics,32,32,1
+2026-10-20,Memphis TN,Spare Parts,51,51,1
+2026-10-20,Memphis TN,Electronics,28,28,0
+2026-10-20,Memphis TN,Spare Parts,32,32,1
+2026-10-20,Memphis TN,Accessories,20,20,1
+2026-10-20,Memphis TN,Spare Parts,102,102,1
+2026-10-20,Indianapolis IN,Electronics,15,15,1
+2026-10-20,Indianapolis IN,Accessories,63,63,1
+2026-10-20,Indianapolis IN,Spare Parts,33,33,1
+2026-10-20,Indianapolis IN,Spare Parts,29,29,1
+2026-10-20,Indianapolis IN,Spare Parts,91,91,1
+2026-10-20,Indianapolis IN,Spare Parts,91,91,1
+2026-10-20,Indianapolis IN,Electronics,20,20,1
+2026-10-20,Indianapolis IN,Electronics,99,99,0
+2026-10-20,Indianapolis IN,Electronics,51,10,1
+2026-10-20,Indianapolis IN,Spare Parts,20,20,1
+2026-10-20,Indianapolis IN,Spare Parts,40,40,1
+2026-10-20,Indianapolis IN,Accessories,101,101,1
+2026-10-20,Indianapolis IN,Spare Parts,50,50,1
+2026-10-20,Indianapolis IN,Spare Parts,67,67,1
+2026-10-20,Indianapolis IN,Spare Parts,18,18,1
+2026-10-20,Indianapolis IN,Fixtures,85,85,1
+2026-10-20,Indianapolis IN,Electronics,111,111,1
+2026-10-20,Indianapolis IN,Fixtures,53,53,1
+2026-10-20,Indianapolis IN,Accessories,84,84,1
+2026-10-20,Indianapolis IN,Spare Parts,106,106,1
+2026-10-20,Indianapolis IN,Spare Parts,67,67,1
+2026-10-20,Indianapolis IN,Electronics,102,102,1
+2026-10-20,Indianapolis IN,Electronics,54,54,1
+2026-10-20,Indianapolis IN,Spare Parts,63,63,1
+2026-10-20,Indianapolis IN,Accessories,118,118,1
+2026-10-20,Indianapolis IN,Fixtures,44,44,1
+2026-10-20,Indianapolis IN,Electronics,77,77,1
+2026-10-20,Indianapolis IN,Spare Parts,65,65,1
+2026-10-20,Indianapolis IN,Electronics,55,55,1
+2026-10-21,Louisville KY,Accessories,103,103,1
+2026-10-21,Louisville KY,Electronics,80,80,1
+2026-10-21,Louisville KY,Accessories,108,108,1
+2026-10-21,Louisville KY,Accessories,53,53,1
+2026-10-21,Louisville KY,Accessories,57,57,1
+2026-10-21,Louisville KY,Fixtures,35,35,1
+2026-10-21,Louisville KY,Electronics,116,116,1
+2026-10-21,Louisville KY,Electronics,73,73,1
+2026-10-21,Louisville KY,Spare Parts,77,77,1
+2026-10-21,Louisville KY,Electronics,94,94,1
+2026-10-21,Louisville KY,Accessories,53,53,1
+2026-10-21,Louisville KY,Electronics,108,108,1
+2026-10-21,Louisville KY,Fixtures,48,48,1
+2026-10-21,Louisville KY,Accessories,26,26,1
+2026-10-21,Louisville KY,Spare Parts,30,30,1
+2026-10-21,Louisville KY,Electronics,112,112,1
+2026-10-21,Louisville KY,Accessories,11,11,1
+2026-10-21,Louisville KY,Fixtures,84,84,1
+2026-10-21,Louisville KY,Electronics,80,80,1
+2026-10-21,Louisville KY,Spare Parts,59,59,1
+2026-10-21,Louisville KY,Accessories,69,69,1
+2026-10-21,Louisville KY,Accessories,30,30,1
+2026-10-21,Louisville KY,Spare Parts,90,90,1
+2026-10-21,Louisville KY,Electronics,85,85,1
+2026-10-21,Memphis TN,Spare Parts,32,32,1
+2026-10-21,Memphis TN,Spare Parts,39,17,1
+2026-10-21,Memphis TN,Spare Parts,77,77,1
+2026-10-21,Memphis TN,Fixtures,51,51,1
+2026-10-21,Memphis TN,Accessories,113,113,1
+2026-10-21,Memphis TN,Electronics,86,86,1
+2026-10-21,Memphis TN,Accessories,87,87,1
+2026-10-21,Memphis TN,Fixtures,56,56,1
+2026-10-21,Memphis TN,Electronics,36,36,1
+2026-10-21,Memphis TN,Spare Parts,76,27,1
+2026-10-21,Memphis TN,Electronics,30,30,1
+2026-10-21,Memphis TN,Accessories,106,106,1
+2026-10-21,Memphis TN,Fixtures,87,87,0
+2026-10-21,Memphis TN,Spare Parts,105,105,1
+2026-10-21,Memphis TN,Electronics,45,45,1
+2026-10-21,Memphis TN,Spare Parts,119,119,1
+2026-10-21,Memphis TN,Electronics,55,23,1
+2026-10-21,Memphis TN,Fixtures,19,19,1
+2026-10-21,Memphis TN,Electronics,71,71,1
+2026-10-21,Memphis TN,Accessories,68,68,1
+2026-10-21,Memphis TN,Electronics,103,103,1
+2026-10-21,Memphis TN,Spare Parts,108,108,1
+2026-10-21,Memphis TN,Spare Parts,32,32,1
+2026-10-21,Memphis TN,Accessories,61,61,1
+2026-10-21,Memphis TN,Electronics,67,67,1
+2026-10-21,Memphis TN,Electronics,45,45,1
+2026-10-21,Memphis TN,Fixtures,40,40,0
+2026-10-21,Indianapolis IN,Spare Parts,96,96,1
+2026-10-21,Indianapolis IN,Electronics,112,112,1
+2026-10-21,Indianapolis IN,Electronics,93,93,1
+2026-10-21,Indianapolis IN,Accessories,75,75,1
+2026-10-21,Indianapolis IN,Accessories,120,120,1
+2026-10-21,Indianapolis IN,Fixtures,114,114,1
+2026-10-21,Indianapolis IN,Spare Parts,37,37,0
+2026-10-21,Indianapolis IN,Fixtures,43,43,1
+2026-10-21,Indianapolis IN,Spare Parts,85,85,1
+2026-10-21,Indianapolis IN,Spare Parts,106,106,1
+2026-10-21,Indianapolis IN,Spare Parts,65,65,0
+2026-10-21,Indianapolis IN,Accessories,96,96,1
+2026-10-21,Indianapolis IN,Electronics,110,110,1
+2026-10-21,Indianapolis IN,Electronics,50,50,1
+2026-10-21,Indianapolis IN,Accessories,63,63,1
+2026-10-21,Indianapolis IN,Fixtures,85,85,1
+2026-10-21,Indianapolis IN,Electronics,56,56,1
+2026-10-21,Indianapolis IN,Electronics,19,19,1
+2026-10-21,Indianapolis IN,Fixtures,113,113,1
+2026-10-21,Indianapolis IN,Accessories,62,62,1
+2026-10-21,Indianapolis IN,Accessories,27,27,1
+2026-10-21,Indianapolis IN,Accessories,30,30,1
+2026-10-21,Indianapolis IN,Spare Parts,117,117,1
+2026-10-22,Louisville KY,Fixtures,7,7,1
+2026-10-22,Louisville KY,Fixtures,16,16,1
+2026-10-22,Louisville KY,Fixtures,11,11,1
+2026-10-22,Louisville KY,Accessories,24,24,1
+2026-10-22,Louisville KY,Electronics,6,6,1
+2026-10-22,Louisville KY,Spare Parts,110,110,1
+2026-10-22,Louisville KY,Fixtures,29,29,1
+2026-10-22,Louisville KY,Accessories,41,41,1
+2026-10-22,Louisville KY,Spare Parts,114,114,1
+2026-10-22,Louisville KY,Accessories,98,98,1
+2026-10-22,Louisville KY,Spare Parts,106,106,1
+2026-10-22,Louisville KY,Accessories,35,35,1
+2026-10-22,Louisville KY,Accessories,79,79,1
+2026-10-22,Louisville KY,Electronics,65,65,1
+2026-10-22,Louisville KY,Spare Parts,92,92,1
+2026-10-22,Louisville KY,Spare Parts,99,99,1
+2026-10-22,Louisville KY,Electronics,11,11,1
+2026-10-22,Louisville KY,Accessories,82,82,1
+2026-10-22,Louisville KY,Electronics,5,5,1
+2026-10-22,Louisville KY,Accessories,55,55,1
+2026-10-22,Louisville KY,Electronics,79,79,1
+2026-10-22,Louisville KY,Spare Parts,48,48,1
+2026-10-22,Louisville KY,Accessories,95,95,1
+2026-10-22,Louisville KY,Electronics,45,45,1
+2026-10-22,Louisville KY,Accessories,100,100,1
+2026-10-22,Louisville KY,Accessories,83,83,1
+2026-10-22,Louisville KY,Accessories,60,60,1
+2026-10-22,Memphis TN,Fixtures,76,76,1
+2026-10-22,Memphis TN,Spare Parts,11,11,1
+2026-10-22,Memphis TN,Fixtures,9,9,1
+2026-10-22,Memphis TN,Spare Parts,60,60,0
+2026-10-22,Memphis TN,Spare Parts,10,10,0
+2026-10-22,Memphis TN,Spare Parts,63,63,1
+2026-10-22,Memphis TN,Fixtures,20,20,1
+2026-10-22,Memphis TN,Accessories,28,28,1
+2026-10-22,Memphis TN,Accessories,77,77,1
+2026-10-22,Memphis TN,Electronics,72,72,1
+2026-10-22,Memphis TN,Electronics,36,36,1
+2026-10-22,Memphis TN,Accessories,8,8,0
+2026-10-22,Memphis TN,Electronics,55,55,1
+2026-10-22,Memphis TN,Electronics,112,112,1
+2026-10-22,Memphis TN,Spare Parts,111,111,1
+2026-10-22,Memphis TN,Accessories,81,81,1
+2026-10-22,Memphis TN,Electronics,88,88,1
+2026-10-22,Memphis TN,Fixtures,32,32,1
+2026-10-22,Memphis TN,Accessories,46,46,1
+2026-10-22,Memphis TN,Spare Parts,16,16,1
+2026-10-22,Memphis TN,Spare Parts,16,16,1
+2026-10-22,Memphis TN,Spare Parts,104,104,1
+2026-10-22,Memphis TN,Fixtures,20,20,1
+2026-10-22,Memphis TN,Accessories,120,120,1
+2026-10-22,Memphis TN,Electronics,111,111,1
+2026-10-22,Indianapolis IN,Spare Parts,65,65,1
+2026-10-22,Indianapolis IN,Electronics,101,101,1
+2026-10-22,Indianapolis IN,Fixtures,60,60,1
+2026-10-22,Indianapolis IN,Accessories,64,64,1
+2026-10-22,Indianapolis IN,Fixtures,68,68,1
+2026-10-22,Indianapolis IN,Electronics,42,42,1
+2026-10-22,Indianapolis IN,Spare Parts,43,43,1
+2026-10-22,Indianapolis IN,Accessories,112,112,1
+2026-10-22,Indianapolis IN,Electronics,75,75,1
+2026-10-22,Indianapolis IN,Electronics,70,70,1
+2026-10-22,Indianapolis IN,Accessories,50,50,1
+2026-10-22,Indianapolis IN,Electronics,19,19,1
+2026-10-22,Indianapolis IN,Fixtures,112,112,1
+2026-10-22,Indianapolis IN,Accessories,45,45,1
+2026-10-22,Indianapolis IN,Spare Parts,84,84,1
+2026-10-22,Indianapolis IN,Fixtures,32,32,1
+2026-10-22,Indianapolis IN,Accessories,116,116,1
+2026-10-22,Indianapolis IN,Electronics,5,5,1
+2026-10-22,Indianapolis IN,Spare Parts,63,63,1
+2026-10-22,Indianapolis IN,Spare Parts,43,43,0
+2026-10-22,Indianapolis IN,Accessories,93,93,1
+2026-10-22,Indianapolis IN,Spare Parts,107,107,1
+2026-10-22,Indianapolis IN,Electronics,29,29,1
+2026-10-22,Indianapolis IN,Fixtures,114,114,1
+2026-10-22,Indianapolis IN,Fixtures,88,88,1
+2026-10-23,Louisville KY,Fixtures,16,16,1
+2026-10-23,Louisville KY,Spare Parts,59,59,1
+2026-10-23,Louisville KY,Fixtures,99,99,1
+2026-10-23,Louisville KY,Spare Parts,7,7,1
+2026-10-23,Louisville KY,Fixtures,42,42,1
+2026-10-23,Louisville KY,Electronics,47,47,1
+2026-10-23,Louisville KY,Spare Parts,58,58,1
+2026-10-23,Louisville KY,Accessories,9,9,1
+2026-10-23,Louisville KY,Spare Parts,34,34,1
+2026-10-23,Louisville KY,Spare Parts,78,78,1
+2026-10-23,Louisville KY,Spare Parts,118,118,1
+2026-10-23,Louisville KY,Accessories,62,62,1
+2026-10-23,Louisville KY,Accessories,97,97,1
+2026-10-23,Louisville KY,Fixtures,69,69,1
+2026-10-23,Louisville KY,Accessories,82,82,1
+2026-10-23,Louisville KY,Spare Parts,21,21,1
+2026-10-23,Louisville KY,Spare Parts,58,58,1
+2026-10-23,Louisville KY,Accessories,106,106,1
+2026-10-23,Louisville KY,Fixtures,84,84,1
+2026-10-23,Louisville KY,Electronics,90,90,1
+2026-10-23,Louisville KY,Fixtures,82,82,1
+2026-10-23,Louisville KY,Spare Parts,43,43,1
+2026-10-23,Louisville KY,Electronics,50,50,1
+2026-10-23,Louisville KY,Fixtures,27,27,1
+2026-10-23,Louisville KY,Electronics,108,108,1
+2026-10-23,Louisville KY,Fixtures,20,20,1
+2026-10-23,Louisville KY,Accessories,105,105,1
+2026-10-23,Louisville KY,Accessories,119,119,1
+2026-10-23,Louisville KY,Electronics,95,95,1
+2026-10-23,Louisville KY,Spare Parts,112,112,0
+2026-10-23,Memphis TN,Electronics,110,110,1
+2026-10-23,Memphis TN,Fixtures,85,85,1
+2026-10-23,Memphis TN,Accessories,25,25,1
+2026-10-23,Memphis TN,Spare Parts,98,98,1
+2026-10-23,Memphis TN,Accessories,47,47,1
+2026-10-23,Memphis TN,Fixtures,61,24,1
+2026-10-23,Memphis TN,Fixtures,111,111,1
+2026-10-23,Memphis TN,Fixtures,15,15,1
+2026-10-23,Memphis TN,Spare Parts,51,51,1
+2026-10-23,Memphis TN,Spare Parts,105,105,1
+2026-10-23,Memphis TN,Spare Parts,57,27,1
+2026-10-23,Memphis TN,Accessories,8,8,1
+2026-10-23,Memphis TN,Electronics,15,15,1
+2026-10-23,Memphis TN,Fixtures,60,60,1
+2026-10-23,Memphis TN,Fixtures,120,120,0
+2026-10-23,Memphis TN,Accessories,58,58,1
+2026-10-23,Memphis TN,Accessories,97,97,1
+2026-10-23,Memphis TN,Electronics,110,110,1
+2026-10-23,Memphis TN,Fixtures,94,94,1
+2026-10-23,Memphis TN,Spare Parts,94,94,1
+2026-10-23,Memphis TN,Spare Parts,104,104,1
+2026-10-23,Memphis TN,Electronics,73,73,1
+2026-10-23,Memphis TN,Fixtures,71,18,1
+2026-10-23,Memphis TN,Accessories,71,71,1
+2026-10-23,Memphis TN,Electronics,8,8,1
+2026-10-23,Memphis TN,Accessories,35,35,1
+2026-10-23,Memphis TN,Spare Parts,69,69,1
+2026-10-23,Memphis TN,Accessories,38,38,1
+2026-10-23,Memphis TN,Electronics,101,101,1
+2026-10-23,Memphis TN,Accessories,78,78,1
+2026-10-23,Indianapolis IN,Fixtures,49,49,1
+2026-10-23,Indianapolis IN,Fixtures,96,96,1
+2026-10-23,Indianapolis IN,Electronics,46,46,1
+2026-10-23,Indianapolis IN,Accessories,63,63,1
+2026-10-23,Indianapolis IN,Spare Parts,15,15,1
+2026-10-23,Indianapolis IN,Fixtures,65,65,1
+2026-10-23,Indianapolis IN,Spare Parts,80,80,1
+2026-10-23,Indianapolis IN,Accessories,79,79,1
+2026-10-23,Indianapolis IN,Spare Parts,93,31,1
+2026-10-23,Indianapolis IN,Spare Parts,110,110,1
+2026-10-23,Indianapolis IN,Spare Parts,96,96,0
+2026-10-23,Indianapolis IN,Electronics,93,93,1
+2026-10-23,Indianapolis IN,Fixtures,76,76,1
+2026-10-23,Indianapolis IN,Spare Parts,19,19,1
+2026-10-23,Indianapolis IN,Electronics,71,71,1
+2026-10-23,Indianapolis IN,Accessories,43,43,1
+2026-10-23,Indianapolis IN,Fixtures,23,23,1
+2026-10-23,Indianapolis IN,Accessories,118,118,1
+2026-10-23,Indianapolis IN,Spare Parts,5,5,1
+2026-10-23,Indianapolis IN,Electronics,58,58,1
+2026-10-23,Indianapolis IN,Spare Parts,120,120,1
+2026-10-24,Louisville KY,Fixtures,102,102,1
+2026-10-24,Louisville KY,Spare Parts,90,90,1
+2026-10-24,Louisville KY,Accessories,16,16,1
+2026-10-24,Louisville KY,Spare Parts,54,54,1
+2026-10-24,Louisville KY,Electronics,90,90,1
+2026-10-24,Louisville KY,Electronics,115,115,1
+2026-10-24,Louisville KY,Accessories,76,76,1
+2026-10-24,Louisville KY,Electronics,29,29,1
+2026-10-24,Louisville KY,Electronics,77,77,1
+2026-10-24,Louisville KY,Electronics,20,20,1
+2026-10-24,Louisville KY,Electronics,40,40,1
+2026-10-24,Louisville KY,Spare Parts,15,15,1
+2026-10-24,Louisville KY,Spare Parts,80,80,1
+2026-10-24,Louisville KY,Electronics,48,48,1
+2026-10-24,Louisville KY,Accessories,53,53,1
+2026-10-24,Louisville KY,Electronics,74,74,1
+2026-10-24,Louisville KY,Accessories,103,103,1
+2026-10-24,Louisville KY,Spare Parts,91,91,1
+2026-10-24,Louisville KY,Accessories,28,28,1
+2026-10-24,Louisville KY,Spare Parts,17,17,1
+2026-10-24,Louisville KY,Accessories,38,38,1
+2026-10-24,Louisville KY,Electronics,11,11,1
+2026-10-24,Louisville KY,Fixtures,68,68,1
+2026-10-24,Louisville KY,Electronics,39,39,1
+2026-10-24,Louisville KY,Spare Parts,13,13,1
+2026-10-24,Louisville KY,Fixtures,118,118,1
+2026-10-24,Louisville KY,Electronics,36,36,1
+2026-10-24,Louisville KY,Fixtures,43,43,1
+2026-10-24,Louisville KY,Fixtures,105,105,1
+2026-10-24,Memphis TN,Fixtures,73,35,1
+2026-10-24,Memphis TN,Electronics,109,109,1
+2026-10-24,Memphis TN,Accessories,88,0,1
+2026-10-24,Memphis TN,Spare Parts,39,39,1
+2026-10-24,Memphis TN,Spare Parts,49,49,1
+2026-10-24,Memphis TN,Accessories,10,10,1
+2026-10-24,Memphis TN,Electronics,43,43,1
+2026-10-24,Memphis TN,Fixtures,97,97,1
+2026-10-24,Memphis TN,Spare Parts,31,31,0
+2026-10-24,Memphis TN,Accessories,118,118,1
+2026-10-24,Memphis TN,Accessories,101,101,1
+2026-10-24,Memphis TN,Accessories,48,48,0
+2026-10-24,Memphis TN,Accessories,7,7,1
+2026-10-24,Memphis TN,Electronics,82,82,1
+2026-10-24,Memphis TN,Fixtures,57,57,1
+2026-10-24,Memphis TN,Spare Parts,102,102,1
+2026-10-24,Memphis TN,Electronics,73,73,1
+2026-10-24,Memphis TN,Spare Parts,91,91,0
+2026-10-24,Memphis TN,Spare Parts,110,110,1
+2026-10-24,Memphis TN,Electronics,20,20,0
+2026-10-24,Indianapolis IN,Electronics,33,33,1
+2026-10-24,Indianapolis IN,Accessories,29,29,1
+2026-10-24,Indianapolis IN,Accessories,108,108,1
+2026-10-24,Indianapolis IN,Spare Parts,51,51,1
+2026-10-24,Indianapolis IN,Fixtures,5,5,1
+2026-10-24,Indianapolis IN,Spare Parts,19,19,1
+2026-10-24,Indianapolis IN,Spare Parts,26,26,1
+2026-10-24,Indianapolis IN,Fixtures,13,13,1
+2026-10-24,Indianapolis IN,Fixtures,38,38,1
+2026-10-24,Indianapolis IN,Accessories,29,29,1
+2026-10-24,Indianapolis IN,Accessories,92,92,1
+2026-10-24,Indianapolis IN,Spare Parts,87,87,1
+2026-10-24,Indianapolis IN,Accessories,60,60,1
+2026-10-24,Indianapolis IN,Electronics,92,92,1
+2026-10-24,Indianapolis IN,Electronics,118,118,1
+2026-10-24,Indianapolis IN,Spare Parts,73,73,1
+2026-10-24,Indianapolis IN,Fixtures,47,47,1
+2026-10-24,Indianapolis IN,Electronics,99,99,1
+2026-10-24,Indianapolis IN,Electronics,36,36,1
+2026-10-24,Indianapolis IN,Electronics,85,85,1
+2026-10-24,Indianapolis IN,Spare Parts,108,108,1
+2026-10-24,Indianapolis IN,Accessories,112,112,1
+2026-10-24,Indianapolis IN,Fixtures,48,48,1
+2026-10-24,Indianapolis IN,Fixtures,14,14,1
+2026-10-24,Indianapolis IN,Electronics,85,85,1
+2026-10-25,Louisville KY,Electronics,53,53,1
+2026-10-25,Louisville KY,Electronics,105,105,1
+2026-10-25,Louisville KY,Spare Parts,12,12,1
+2026-10-25,Louisville KY,Electronics,18,18,1
+2026-10-25,Louisville KY,Accessories,113,113,1
+2026-10-25,Louisville KY,Spare Parts,34,34,1
+2026-10-25,Louisville KY,Electronics,63,63,1
+2026-10-25,Louisville KY,Electronics,48,48,1
+2026-10-25,Louisville KY,Electronics,63,63,1
+2026-10-25,Louisville KY,Electronics,18,18,1
+2026-10-25,Louisville KY,Fixtures,120,120,1
+2026-10-25,Louisville KY,Accessories,50,50,1
+2026-10-25,Louisville KY,Spare Parts,28,28,1
+2026-10-25,Louisville KY,Electronics,21,21,1
+2026-10-25,Louisville KY,Accessories,44,44,1
+2026-10-25,Louisville KY,Fixtures,23,23,1
+2026-10-25,Louisville KY,Accessories,52,52,1
+2026-10-25,Louisville KY,Fixtures,12,12,1
+2026-10-25,Memphis TN,Electronics,59,59,0
+2026-10-25,Memphis TN,Fixtures,105,105,1
+2026-10-25,Memphis TN,Spare Parts,93,93,1
+2026-10-25,Memphis TN,Accessories,114,114,0
+2026-10-25,Memphis TN,Accessories,58,58,1
+2026-10-25,Memphis TN,Electronics,68,68,1
+2026-10-25,Memphis TN,Fixtures,93,93,1
+2026-10-25,Memphis TN,Fixtures,66,66,0
+2026-10-25,Memphis TN,Accessories,108,108,1
+2026-10-25,Memphis TN,Fixtures,110,23,1
+2026-10-25,Memphis TN,Accessories,8,8,1
+2026-10-25,Memphis TN,Spare Parts,29,29,0
+2026-10-25,Memphis TN,Accessories,10,1,1
+2026-10-25,Memphis TN,Fixtures,33,33,1
+2026-10-25,Memphis TN,Accessories,113,113,1
+2026-10-25,Memphis TN,Electronics,27,27,1
+2026-10-25,Memphis TN,Electronics,111,111,1
+2026-10-25,Memphis TN,Electronics,48,48,1
+2026-10-25,Memphis TN,Fixtures,52,52,1
+2026-10-25,Memphis TN,Spare Parts,117,117,1
+2026-10-25,Memphis TN,Fixtures,106,106,1
+2026-10-25,Memphis TN,Accessories,45,45,0
+2026-10-25,Memphis TN,Fixtures,10,10,1
+2026-10-25,Memphis TN,Accessories,106,106,1
+2026-10-25,Memphis TN,Accessories,116,116,1
+2026-10-25,Memphis TN,Spare Parts,31,31,1
+2026-10-25,Indianapolis IN,Electronics,26,26,1
+2026-10-25,Indianapolis IN,Accessories,68,68,1
+2026-10-25,Indianapolis IN,Accessories,72,72,1
+2026-10-25,Indianapolis IN,Spare Parts,65,65,1
+2026-10-25,Indianapolis IN,Electronics,31,31,1
+2026-10-25,Indianapolis IN,Fixtures,55,55,1
+2026-10-25,Indianapolis IN,Spare Parts,78,78,1
+2026-10-25,Indianapolis IN,Accessories,75,75,1
+2026-10-25,Indianapolis IN,Accessories,61,61,1
+2026-10-25,Indianapolis IN,Electronics,64,64,1
+2026-10-25,Indianapolis IN,Spare Parts,64,64,1
+2026-10-25,Indianapolis IN,Spare Parts,45,45,1
+2026-10-25,Indianapolis IN,Spare Parts,34,34,1
+2026-10-25,Indianapolis IN,Electronics,42,42,1
+2026-10-25,Indianapolis IN,Electronics,105,105,1
+2026-10-25,Indianapolis IN,Electronics,14,14,1
+2026-10-25,Indianapolis IN,Accessories,30,30,1
+2026-10-25,Indianapolis IN,Accessories,29,29,0
+2026-10-25,Indianapolis IN,Accessories,6,6,1
+2026-10-25,Indianapolis IN,Accessories,105,25,1
+2026-10-25,Indianapolis IN,Electronics,65,65,0
+2026-10-25,Indianapolis IN,Fixtures,115,115,1
+2026-10-25,Indianapolis IN,Fixtures,65,65,1
+2026-10-25,Indianapolis IN,Spare Parts,97,97,1
+2026-10-25,Indianapolis IN,Electronics,45,45,1
+2026-10-25,Indianapolis IN,Spare Parts,31,31,1
+2026-10-25,Indianapolis IN,Electronics,52,52,1
+2026-10-25,Indianapolis IN,Accessories,99,99,1
+2026-10-25,Indianapolis IN,Accessories,48,48,1
+2026-10-25,Indianapolis IN,Spare Parts,102,102,1
+2026-10-26,Louisville KY,Electronics,77,77,1
+2026-10-26,Louisville KY,Fixtures,47,47,1
+2026-10-26,Louisville KY,Spare Parts,53,53,1
+2026-10-26,Louisville KY,Spare Parts,29,29,1
+2026-10-26,Louisville KY,Spare Parts,86,86,1
+2026-10-26,Louisville KY,Electronics,91,91,1
+2026-10-26,Louisville KY,Spare Parts,8,8,1
+2026-10-26,Louisville KY,Spare Parts,41,41,1
+2026-10-26,Louisville KY,Electronics,63,63,1
+2026-10-26,Louisville KY,Fixtures,46,46,1
+2026-10-26,Louisville KY,Fixtures,19,19,1
+2026-10-26,Louisville KY,Electronics,54,54,1
+2026-10-26,Louisville KY,Fixtures,116,116,1
+2026-10-26,Louisville KY,Spare Parts,25,25,0
+2026-10-26,Louisville KY,Fixtures,69,69,1
+2026-10-26,Louisville KY,Fixtures,5,1,1
+2026-10-26,Louisville KY,Spare Parts,82,82,1
+2026-10-26,Louisville KY,Spare Parts,63,63,1
+2026-10-26,Louisville KY,Electronics,41,41,1
+2026-10-26,Louisville KY,Accessories,94,94,1
+2026-10-26,Louisville KY,Spare Parts,83,83,1
+2026-10-26,Louisville KY,Spare Parts,36,36,1
+2026-10-26,Louisville KY,Spare Parts,63,63,1
+2026-10-26,Memphis TN,Electronics,55,55,1
+2026-10-26,Memphis TN,Fixtures,40,40,1
+2026-10-26,Memphis TN,Electronics,94,94,1
+2026-10-26,Memphis TN,Spare Parts,57,17,1
+2026-10-26,Memphis TN,Accessories,14,14,1
+2026-10-26,Memphis TN,Accessories,57,57,1
+2026-10-26,Memphis TN,Electronics,64,64,1
+2026-10-26,Memphis TN,Spare Parts,53,53,1
+2026-10-26,Memphis TN,Fixtures,55,55,1
+2026-10-26,Memphis TN,Fixtures,46,46,1
+2026-10-26,Memphis TN,Spare Parts,13,13,1
+2026-10-26,Memphis TN,Spare Parts,22,22,1
+2026-10-26,Memphis TN,Fixtures,26,26,1
+2026-10-26,Memphis TN,Fixtures,42,42,1
+2026-10-26,Memphis TN,Fixtures,14,14,1
+2026-10-26,Memphis TN,Accessories,24,24,1
+2026-10-26,Memphis TN,Electronics,119,119,1
+2026-10-26,Memphis TN,Electronics,112,112,1
+2026-10-26,Memphis TN,Electronics,54,54,1
+2026-10-26,Memphis TN,Electronics,11,11,1
+2026-10-26,Memphis TN,Fixtures,52,52,1
+2026-10-26,Memphis TN,Electronics,58,58,1
+2026-10-26,Memphis TN,Fixtures,92,92,1
+2026-10-26,Memphis TN,Electronics,107,107,1
+2026-10-26,Memphis TN,Fixtures,10,10,1
+2026-10-26,Memphis TN,Accessories,46,46,1
+2026-10-26,Memphis TN,Fixtures,74,74,1
+2026-10-26,Memphis TN,Fixtures,32,32,1
+2026-10-26,Memphis TN,Electronics,56,56,1
+2026-10-26,Indianapolis IN,Spare Parts,33,33,1
+2026-10-26,Indianapolis IN,Accessories,10,10,1
+2026-10-26,Indianapolis IN,Accessories,103,103,0
+2026-10-26,Indianapolis IN,Electronics,96,96,0
+2026-10-26,Indianapolis IN,Fixtures,37,37,1
+2026-10-26,Indianapolis IN,Spare Parts,91,44,1
+2026-10-26,Indianapolis IN,Fixtures,86,86,1
+2026-10-26,Indianapolis IN,Spare Parts,13,13,1
+2026-10-26,Indianapolis IN,Spare Parts,53,53,1
+2026-10-26,Indianapolis IN,Electronics,34,34,1
+2026-10-26,Indianapolis IN,Electronics,44,44,1
+2026-10-26,Indianapolis IN,Fixtures,84,84,1
+2026-10-26,Indianapolis IN,Spare Parts,42,42,1
+2026-10-26,Indianapolis IN,Electronics,35,35,1
+2026-10-26,Indianapolis IN,Spare Parts,99,99,1
+2026-10-26,Indianapolis IN,Accessories,87,87,1
+2026-10-26,Indianapolis IN,Spare Parts,87,87,1
+2026-10-26,Indianapolis IN,Fixtures,113,113,1
+2026-10-26,Indianapolis IN,Fixtures,74,74,1
+2026-10-26,Indianapolis IN,Fixtures,107,107,1
+2026-10-26,Indianapolis IN,Spare Parts,71,71,1
+2026-10-27,Louisville KY,Electronics,116,116,1
+2026-10-27,Louisville KY,Electronics,86,13,1
+2026-10-27,Louisville KY,Fixtures,80,80,1
+2026-10-27,Louisville KY,Fixtures,35,35,1
+2026-10-27,Louisville KY,Spare Parts,44,44,1
+2026-10-27,Louisville KY,Spare Parts,27,27,1
+2026-10-27,Louisville KY,Spare Parts,86,86,1
+2026-10-27,Louisville KY,Spare Parts,15,5,1
+2026-10-27,Louisville KY,Fixtures,65,65,1
+2026-10-27,Louisville KY,Spare Parts,102,102,0
+2026-10-27,Louisville KY,Spare Parts,7,7,1
+2026-10-27,Louisville KY,Electronics,102,102,1
+2026-10-27,Louisville KY,Fixtures,75,75,1
+2026-10-27,Louisville KY,Spare Parts,44,44,1
+2026-10-27,Louisville KY,Spare Parts,14,14,1
+2026-10-27,Louisville KY,Fixtures,24,24,1
+2026-10-27,Louisville KY,Accessories,67,67,1
+2026-10-27,Louisville KY,Spare Parts,100,100,1
+2026-10-27,Memphis TN,Electronics,57,57,0
+2026-10-27,Memphis TN,Electronics,54,54,1
+2026-10-27,Memphis TN,Spare Parts,37,37,1
+2026-10-27,Memphis TN,Accessories,70,70,1
+2026-10-27,Memphis TN,Accessories,94,94,1
+2026-10-27,Memphis TN,Spare Parts,99,99,1
+2026-10-27,Memphis TN,Accessories,85,85,1
+2026-10-27,Memphis TN,Fixtures,38,38,0
+2026-10-27,Memphis TN,Fixtures,37,37,1
+2026-10-27,Memphis TN,Fixtures,6,6,1
+2026-10-27,Memphis TN,Spare Parts,55,55,0
+2026-10-27,Memphis TN,Electronics,71,71,1
+2026-10-27,Memphis TN,Fixtures,111,111,1
+2026-10-27,Memphis TN,Spare Parts,80,80,1
+2026-10-27,Memphis TN,Electronics,18,18,1
+2026-10-27,Memphis TN,Accessories,109,109,1
+2026-10-27,Memphis TN,Spare Parts,94,94,0
+2026-10-27,Memphis TN,Spare Parts,5,5,1
+2026-10-27,Memphis TN,Spare Parts,72,72,1
+2026-10-27,Memphis TN,Spare Parts,26,26,1
+2026-10-27,Memphis TN,Fixtures,30,30,1
+2026-10-27,Memphis TN,Electronics,62,62,1
+2026-10-27,Memphis TN,Fixtures,12,12,1
+2026-10-27,Memphis TN,Fixtures,38,13,1
+2026-10-27,Memphis TN,Electronics,116,116,1
+2026-10-27,Memphis TN,Electronics,53,53,1
+2026-10-27,Memphis TN,Electronics,79,79,1
+2026-10-27,Memphis TN,Electronics,6,6,1
+2026-10-27,Indianapolis IN,Electronics,17,17,1
+2026-10-27,Indianapolis IN,Spare Parts,82,82,0
+2026-10-27,Indianapolis IN,Accessories,67,67,1
+2026-10-27,Indianapolis IN,Spare Parts,48,48,1
+2026-10-27,Indianapolis IN,Accessories,109,109,1
+2026-10-27,Indianapolis IN,Spare Parts,53,53,0
+2026-10-27,Indianapolis IN,Accessories,108,108,1
+2026-10-27,Indianapolis IN,Spare Parts,97,97,0
+2026-10-27,Indianapolis IN,Electronics,82,82,1
+2026-10-27,Indianapolis IN,Fixtures,52,52,1
+2026-10-27,Indianapolis IN,Spare Parts,70,70,1
+2026-10-27,Indianapolis IN,Accessories,7,7,1
+2026-10-27,Indianapolis IN,Accessories,91,91,1
+2026-10-27,Indianapolis IN,Spare Parts,99,99,1
+2026-10-27,Indianapolis IN,Spare Parts,65,6,1
+2026-10-27,Indianapolis IN,Accessories,82,82,1
+2026-10-27,Indianapolis IN,Electronics,21,21,1
+2026-10-27,Indianapolis IN,Spare Parts,26,26,0

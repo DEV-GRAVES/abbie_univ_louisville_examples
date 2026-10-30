@@ -1,0 +1,22 @@
+[
+  {"timestamp": "2026-09-02 09:14", "author": "Chris Graves", "initials": "CG", "role": "Solution Architect", "ref": "v1.0.0",
+   "text": "First cut of the fill rate analyzer is merged. It reads the daily order-line export and prints fill rate by site. Sample data is seeded so everyone gets the same numbers."},
+  {"timestamp": "2026-09-11 15:40", "author": "Priya Okafor", "initials": "PO", "role": "Ops Manager, Memphis", "ref": "CHG-088",
+   "text": "Can we split this by SKU family? Spare Parts drag our number down and I need to show that separately in the weekly review."},
+  {"timestamp": "2026-09-12 10:05", "author": "Alex Moreno", "initials": "AM", "role": "Data Analyst", "ref": "v1.1.0",
+   "text": "Done - SKU family grouping is in 1.1.0. Older files without the column still load and show as 'Unassigned'."},
+  {"timestamp": "2026-09-17 08:22", "author": "Jordan Tate", "initials": "JT", "role": "CI Engineer", "ref": "CHG-091",
+   "text": "Script crashed on last night's run: ZeroDivisionError. Indianapolis had a day with zero ordered units after the holiday cutoff."},
+  {"timestamp": "2026-09-18 11:30", "author": "Chris Graves", "initials": "CG", "role": "Solution Architect", "ref": "v1.1.1",
+   "text": "Patched in 1.1.1. Fill rate now returns 0 for empty buckets, and shipped > ordered rows get clamped. Search the code for [CHG-091] to see the exact lines."},
+  {"timestamp": "2026-09-29 14:12", "author": "Jordan Tate", "initials": "JT", "role": "CI Engineer", "ref": "v1.2.0",
+   "text": "Added on-time ship rate. Fill rate alone hid the fact that Memphis ships complete but late."},
+  {"timestamp": "2026-10-13 16:48", "author": "Alex Moreno", "initials": "AM", "role": "Data Analyst", "ref": "CHG-104",
+   "text": "Heads up: 2.0.0 is a breaking change. Output is now an HTML report instead of CSV, so any Power Automate flow that picks up the CSV needs updating."},
+  {"timestamp": "2026-10-14 09:01", "author": "Priya Okafor", "initials": "PO", "role": "Ops Manager, Memphis", "ref": "",
+   "text": "The new report is much easier to share with site leads. The trend tab made our Spare Parts dip obvious."},
+  {"timestamp": "2026-10-29 13:20", "author": "Chris Graves", "initials": "CG", "role": "Solution Architect", "ref": "CHG-118",
+   "text": "Adding change log and team communication tabs so reviewers can see why each version exists without leaving the report. Targeting 2.1.0 tomorrow."},
+  {"timestamp": "2026-10-30 10:45", "author": "Jordan Tate", "initials": "JT", "role": "CI Engineer", "ref": "v2.1.0",
+   "text": "Reviewed and approved. Message text is escaped before embedding, so <b>markup</b> like this shows as plain text."}
+]
