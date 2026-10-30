@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/louisville_cardinal.png" alt="University of Louisville Cardinal logo" width="180">
+</p>
+
 # abbie_univ_louisville_examples
 
 Example repository for Abbie Beauerle @ abigail.beauerle@louisville.edu containing a project scaffold with python code and a working output. Used for observing modern practices for how solution and software design teams create transparency and communicate through code.
@@ -32,6 +36,8 @@ python -m unittest discover tests
 ```
 abbie_univ_louisville_examples/
 ├── README.md
+├── assets/
+│   └── louisville_cardinal.png
 ├── CHANGELOG.md                     # release history (parsed into the report)
 ├── LICENSE                          # CC0 1.0
 ├── requirements.txt                 # empty on purpose: stdlib only
@@ -58,3 +64,5 @@ abbie_univ_louisville_examples/
 ## License
 
 CC0 1.0 Universal (public domain dedication) - see [LICENSE](LICENSE).
+
+The Cardinal logo in `assets/` is a trademark of the University of Louisville and is not covered by the CC0 dedication.
